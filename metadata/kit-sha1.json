@@ -12,23 +12,23 @@
         "1.4-release": "7928be963a0c51409acba516138bb9d57b607491"
     },
     "core-server-kit": {
-        "1.4-release": "ec04ae3a7ad5791db0c601895503e0e78061bea4"
+        "1.4-release": "e2d7f9262f242039c125537589080e83c555d927"
     },
     "desktop-kit": {
         "1.4-release": "74899f0541b0f8c0f7868d3b5b225e9aaf8d618f"
     },
     "dev-kit": {
-        "1.4-release": "6737868282ce2d24b6f572d51342b1ccd86753ae"
+        "1.4-release": "40a641b6562aebb34ab9f264acaa077af4a26e57"
     },
     "editors-kit": {
-        "1.4-release": "ba1f1a3f0a5ad4de7bf96d526c3096494dd968ad"
+        "1.4-release": "be6a8dc0612e7b4e518f1ac61d2021850225c46f"
     },
     "games-kit": {
         "1.4-release": "1030df60babcd82f57d10fbaf99cf95f02f90c29"
     },
     "gnome-kit": {
         "40-prime": "5299893f88c7b80507a470dc2874dd6eab803b92",
-        "41-prime": "62ad90507c22418e611f7762c13a765993ddb788"
+        "41-prime": "56c1f418445ef8530f8ecb7071d31617759f177e"
     },
     "haskell-kit": {
         "1.4-release": "0d60c00d0f5035f627ebe35c15eb9d18da9cd8e3"
@@ -58,7 +58,7 @@
         "1.4-release": "26d85f985f6699ac5436f537ed85da1867979f7a"
     },
     "net-kit": {
-        "1.4-release": "fb8bcc05d8d5e27016bd531577dbf997fb03b6eb"
+        "1.4-release": "c625ca58c8a270a92c8a90c73d8d785e67ac19f5"
     },
     "nokit": {
         "1.4-release": "3983389215f9a935cb24faec8856f67bac2e9970"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "a56b070dfc935ef93a0d91cff10f7dba92f82f17"
+        "1.4-release": "5c7da437798f3cc3125961a6d4365633aa295aa0"
     },
     "qt-kit": {
         "5.15.2-release": "45bf17056d979d9049466c929bbf72c2c0a424b9"
@@ -79,7 +79,7 @@
         "2.7-prime": "7448d8f827c31f11d560ba79fba39a47c876e164"
     },
     "science-kit": {
-        "1.4-release": "4fc32607e4eecf2c951704e73537f1bb300de255"
+        "1.4-release": "0332d33a02c91ea24348310f45d9e78658a6bbae"
     },
     "security-kit": {
         "1.4-release": "9101d8c359eed41f3a9e7c231afc9ff73c11e5cb"
