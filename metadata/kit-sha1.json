@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "c3418b9f883ec4c9b58e4be3655983833edcd099"
+        "1.4-release": "c56a6130de96abb66a905c9b1a5bd378c9f9074a"
     },
     "core-gl-kit": {
         "2.0-release": "b760af53841c69f377436645431fe8e0fedd3a5f"
@@ -9,19 +9,19 @@
         "1.4-release": "9a2ee30775b0038ec8de1c07080ca94186d3c965"
     },
     "core-kit": {
-        "1.4-release": "b067abbf0fee621ee3aa10bb2519808b30c378c0"
+        "1.4-release": "43836c03c4abab50747027fa669429e5caf692db"
     },
     "core-server-kit": {
-        "1.4-release": "56af69be28a1708bdef8c4a2428f1aa88a995fee"
+        "1.4-release": "aa6f272aa7c4e8f0473ecf4fd6dae43e0cffb641"
     },
     "desktop-kit": {
-        "1.4-release": "9dec16d5ab66cec858b2a79da13c00781108bd7e"
+        "1.4-release": "a3a75c24b40d8be752f68a90ae00333b8081531b"
     },
     "dev-kit": {
-        "1.4-release": "78f0669fa2347c84900faa3f0e53995e60f401e0"
+        "1.4-release": "1714e925fb959488540dc9c5263ee308820ff0e0"
     },
     "editors-kit": {
-        "1.4-release": "eb5718996d418d82af040f57d906756d16461fd0"
+        "1.4-release": "fe914bd7c82bd4d904c33beaf97c85e8ba2e0c08"
     },
     "games-kit": {
         "1.4-release": "f60256016f06f071383feeebdd04d9d11c656342"
@@ -58,7 +58,7 @@
         "1.4-release": "26d85f985f6699ac5436f537ed85da1867979f7a"
     },
     "net-kit": {
-        "1.4-release": "4d1d6d635422cd19883b3bfa9a5b215a18c0fe4d"
+        "1.4-release": "e0fd376ca4846c290de96384f9abfc7c9ec45367"
     },
     "nokit": {
         "1.4-release": "87511c53a383a7a98f55426b56d14fcf02edd759"
@@ -70,10 +70,10 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "1e81a1aa1f6fbc4cd1e0f9bdf6821c90683620a2"
+        "1.4-release": "1548a994214a94a0c3e90eb0aec2490244c20904"
     },
     "qt-kit": {
-        "5.15.2-release": "48e140aabcc2d51c0fee7e12521f40d237f09dc1"
+        "5.15.2-release": "e0709bfd5c2a6ba3634c4f7367db1453041bc100"
     },
     "ruby-kit": {
         "2.7-prime": "7f12ca1a62ae281b353768d30a59eb3a1ff4e330"
