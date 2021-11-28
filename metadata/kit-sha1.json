@@ -1,43 +1,43 @@
 {
     "browser-kit": {
-        "1.4-release": "85dc682224d1d19477ca69612bac9d833b440ac9"
+        "1.4-release": "f9c6ebd415fba2e90c213e927de5af889bca8c11"
     },
     "core-gl-kit": {
-        "2.0-release": "b760af53841c69f377436645431fe8e0fedd3a5f"
+        "2.0-release": "c73af17aafe6d25039f0bcb9942cf8b2b5c32f98"
     },
     "core-hw-kit": {
-        "1.4-release": "9a2ee30775b0038ec8de1c07080ca94186d3c965"
+        "1.4-release": "5425ab26d56fb4ceda5d3c7235d7e1bd8ad7d4cd"
     },
     "core-kit": {
-        "1.4-release": "7f970f7bd98bbe6fdd3c1f28e7181f4969a4a6c2"
+        "1.4-release": "9d7e0d48e702f12b25aec536da05988ef9847b4c"
     },
     "core-server-kit": {
-        "1.4-release": "13394df53fa63656db357e8f5e7fcabfd02d2813"
+        "1.4-release": "4fc07baeaad280024e7f3f65df43e2ee22062682"
     },
     "desktop-kit": {
-        "1.4-release": "a3a75c24b40d8be752f68a90ae00333b8081531b"
+        "1.4-release": "d133ec05aa1ae8fb0794884f45f43209c29a0c1c"
     },
     "dev-kit": {
-        "1.4-release": "4757f68994868bcc1b8adc7e4f064b8d71f70341"
+        "1.4-release": "b6a2ec9ba3fb811955e1572da76e33770fbe5450"
     },
     "editors-kit": {
-        "1.4-release": "09b01d1a141c2c8fbb47ae54dc03d543221f3187"
+        "1.4-release": "21718ab41e06b9f6d7259d334c358c014e78e5f9"
     },
     "games-kit": {
-        "1.4-release": "f60256016f06f071383feeebdd04d9d11c656342"
+        "1.4-release": "ff6fc4a759278f137b9c07dbe818b0a894e4e4d9"
     },
     "gnome-kit": {
-        "40-prime": "5299893f88c7b80507a470dc2874dd6eab803b92",
-        "41-prime": "1802cbccf028a04ebc65f969de23204b8ead793d"
+        "40-prime": "ab89fae2c5d20cab4866b6114a0275fb239394d4",
+        "41-prime": "aa2738c54b97abd22a40e558950d7fc58b36392e"
     },
     "haskell-kit": {
         "1.4-release": "0d60c00d0f5035f627ebe35c15eb9d18da9cd8e3"
     },
     "java-kit": {
-        "1.4-release": "2f39adcf6a34db4ce18c57d47cbd1156798fc9c0"
+        "1.4-release": "1303e23ef9b65e306a4fdf448dc2da5acdf764f2"
     },
     "kde-kit": {
-        "5.22-release": "0c2d58b81bff88aa434a9039d31b8579435e6248"
+        "5.22-release": "7d9b66d6ccee401beb8ab3f860a772e986779458"
     },
     "lang-kit": {
         "1.4-release": "7e0f46505c7e2fb16282420b876d25bce6a3a016"
@@ -52,16 +52,16 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "1.4-release": "26c3f189931293f5db8c1c1b68f5c07c765cbb87"
+        "1.4-release": "43de29b8d202862e58ee9d395d58efc300d79a18"
     },
     "ml-lang-kit": {
         "1.4-release": "26d85f985f6699ac5436f537ed85da1867979f7a"
     },
     "net-kit": {
-        "1.4-release": "1f40acec8f0916066ce1c880a3d035baca7d1239"
+        "1.4-release": "41e9cfedbced5cefd84c514c4c48b50b4adabc0a"
     },
     "nokit": {
-        "1.4-release": "87511c53a383a7a98f55426b56d14fcf02edd759"
+        "1.4-release": "7403b3d335e9dda227e81d03148ae205d99b8713"
     },
     "perl-kit": {
         "5.32-release": "142cc0801b2979434c2c38497f071b58d743da6b"
@@ -70,22 +70,22 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "0c413e493d6e593394c94ab5f82ac15ec125906a"
+        "1.4-release": "5a61618d7c8d260a723504f5cf2af56a67863f01"
     },
     "qt-kit": {
-        "5.15.2-release": "e0709bfd5c2a6ba3634c4f7367db1453041bc100"
+        "5.15.2-release": "62bc34b6edf0eda7b56b097d29853b23cf38f418"
     },
     "ruby-kit": {
         "2.7-prime": "7f12ca1a62ae281b353768d30a59eb3a1ff4e330"
     },
     "science-kit": {
-        "1.4-release": "c4e40cee19fc3999e7325c314fdd09b43b46a69c"
+        "1.4-release": "614a16cf7e79487357bf3d33a9a06dfdf2ecb963"
     },
     "security-kit": {
-        "1.4-release": "c259eba0553814bf993e52bfa97c66afeae61321"
+        "1.4-release": "dd5109ee868ff8b9fd44732b07af12901fd75d79"
     },
     "text-kit": {
-        "1.4-release": "8d5dc0ff56e7d3e240025a6f381fb74684cfe8a1"
+        "1.4-release": "54bdf1ed99fedd1e20149448ea0f25f6af2fec4f"
     },
     "xfce-kit": {
         "4.14-release": "9fa2542b36458a15c0b788db0057b9a2f1cadbe8",
