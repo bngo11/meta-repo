@@ -52,7 +52,7 @@
         "1.24-prime": "4a2b4afe68087f4143e75eddc24b429e750f0dd9"
     },
     "media-kit": {
-        "1.4-release": "7b06c963d6fc8b0b2042f21f477d377616f4f8e5"
+        "1.4-release": "e1da38137d9726ae43bdb87f15246ab3f8396178"
     },
     "ml-lang-kit": {
         "1.4-release": "a5a382b66dd7232d37fffe3f7d88c5b78e7955f1"
@@ -70,7 +70,7 @@
         "3.7-release": "bf36eeae78942a52ecbfa276ed047832f2528bc4"
     },
     "python-modules-kit": {
-        "1.4-release": "d8d1b25b779ba8b5b8b55328a142148db80a6f7b"
+        "1.4-release": "bfb75a875ddefdeaf44a190835800f1441b4ad80"
     },
     "qt-kit": {
         "5.15.2-release": "7470a1a8b99d81cb4acf4c4cab2c7eb6b3da5244"
