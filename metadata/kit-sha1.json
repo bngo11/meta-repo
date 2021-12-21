@@ -1,91 +1,91 @@
 {
     "browser-kit": {
-        "next": "2e8fd1114f717ce71e36ac38c311a9a12c97eb6e"
+        "next": "7d4dbd65f3b5568bd03fc35a3207338425cc1a4c"
     },
     "core-gl-kit": {
-        "next": "d1473a26799153ee9c24688f2ac873efe476e2ed"
+        "next": "99a9965efee61954d5824ea3d9e45c43548a8aa2"
     },
     "core-hw-kit": {
-        "next": "146a2e0b534a8bc664a69e472a63756b8f2ed199"
+        "next": "841fbf558b5ca7dad71fe256cc53305462258400"
     },
     "core-kit": {
-        "next": "8e454d617e5a619579d501d13e64f792cbe908e4"
+        "next": "b5f48dcc433893b92f96332cb2543ea3b907b92d"
     },
     "core-server-kit": {
-        "next": "712c262837ddd0e30284bfabc68d34732a8b3adb"
+        "next": "36f4b6b096e0141d77647570988c0fbbeb5bca15"
     },
     "desktop-kit": {
-        "next": "3c8b9d4321da4918a422d4e7832b09a03e15cf33"
+        "next": "2e5c1d9d13a2cdcee188dce6d04135418427c619"
     },
     "dev-kit": {
-        "next": "a206018b222d8ee8570a2b4ebd1a9cee14357ef1"
+        "next": "554ca3560f3a66164ea3139ab2117e282dce7bc3"
     },
     "editors-kit": {
-        "next": "515705bc30af290efc9d7ef4c6e41f3c764d203a"
+        "next": "38ccef4a2432e0bd068375ba3bb02e36cfc21513"
     },
     "games-kit": {
-        "next": "760cbbf8ccc3a195ba6457f95c04bf1c5708a758"
+        "next": "8a32e9fb66be1bd24ce34018817f231b60455a49"
     },
     "gnome-kit": {
-        "40-prime": "054bffa368b91a4bbd657c69aa835d52f73b7377",
-        "41-prime": "6f58814a7971d9cc70b16893b4e84351eb9e58ae"
+        "40-prime": "a465b1de748089dad67a3bf34567a778ded576b7",
+        "41-prime": "3edb1ebbbdb178ff8398f4add6405a9348de82dc"
     },
     "haskell-kit": {
         "next": "3959262c502b2cad68c21c5f4ebe924e1a4c033e"
     },
     "java-kit": {
-        "next": "ad21df41e2f5a144364aca701df1fa3665e17bbe"
+        "next": "419a4dbe0ca24a7150598e5c97aaeca2f1cd5f5b"
     },
     "kde-kit": {
-        "5.22-release": "27ef9a5e38e4fe5323c81eec1404d4dd51d50783"
+        "5.22-release": "bf89e669dcefd30598d58c97eee88e87b1f1c15f"
     },
     "lang-kit": {
-        "next": "1a8d95c44be712cda2fe05f42837033dda614472"
+        "next": "a9a02d692acfcc864985c26e5792d1b1509691dc"
     },
     "lisp-scheme-kit": {
         "next": "1404204dd799263af55cb919a1bf27735b27a3bc"
     },
     "llvm-kit": {
-        "next": "f7e695108c0bb767aa84b7b5fe6eec5f4cc56f5a"
+        "next": "56a4b1e817465f393242ed1cb87c3ad46b59e557"
     },
     "mate-kit": {
-        "1.24-prime": "bb5c484b62f50c0be7b85f81c034afc70fabb8af"
+        "1.24-prime": "08b14e84509a83f3c76be1bae331c6c5e005ebe0"
     },
     "media-kit": {
-        "next": "26b19d88954296b288201ddc0ffcc8138119f1c4"
+        "next": "3cb522c076ad85b6e4eac295a7bf55f842241ba0"
     },
     "ml-lang-kit": {
         "next": "5b54af21ee1ec508a3a2440002fc0be6d16e594e"
     },
     "net-kit": {
-        "next": "25145e3757bc8563cee1229205fe7cb6e1db2a4b"
+        "next": "cc4f79c3a77330877ae7de1d5e5ea04884f4b33a"
     },
     "perl-kit": {
         "next": "d66861740ff5d014deb80740958cefe7543cdb10"
     },
     "python-kit": {
-        "3.7-release": "bf36eeae78942a52ecbfa276ed047832f2528bc4"
+        "3.7-release": "6ef6b30cd454d0c4575f79bd21076f914bababd6"
     },
     "python-modules-kit": {
-        "next": "136b52732c0825a114c470fba2093aaafbb33e01"
+        "next": "6249379b95d06faf6dfc4b5891d4d27c8fa45263"
     },
     "qt-kit": {
-        "5.15.2-release": "7470a1a8b99d81cb4acf4c4cab2c7eb6b3da5244"
+        "5.15.2-release": "8ee8d7c1090e3ed97ebebc54ea3e6e5fd0a39860"
     },
     "ruby-kit": {
         "next": "e18ef326cfadbfca5f8e35f5cbe92aceaf3d019a"
     },
     "science-kit": {
-        "next": "509c47c6a94cff4a47051bf795f65ff833637b32"
+        "next": "819cd93fab96aa03bc63b6da0cdb6cd37655395d"
     },
     "security-kit": {
-        "next": "4db81ddc0ccdc92eb987c21b99d5bcc93c0a2499"
+        "next": "9f5bd0c29a4328e517a61b487fe487326745d284"
     },
     "text-kit": {
-        "next": "6e5265909237305a7cb1cbb8d4a1b36e4961606d"
+        "next": "010882ed949bbe679cec75b3e280615433fdf202"
     },
     "xfce-kit": {
-        "4.14-release": "0cffdd7059545e2c5bf543364cf119d5b16ef117",
-        "4.16-release": "bce97a8fe336a84350a1f24e9830013186871e1f"
+        "4.14-release": "f49c8b8aae1181c9aae9ea9ec25435be10349620",
+        "4.16-release": "8ea1c50e9abe8c9adddc8bc73ce5680538ab4dc0"
     }
 }
