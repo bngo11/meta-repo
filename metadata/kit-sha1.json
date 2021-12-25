@@ -3,13 +3,13 @@
         "next": "c15ded96ee932d57fe3424485ff84b4ebd36a714"
     },
     "core-gl-kit": {
-        "next": "99a9965efee61954d5824ea3d9e45c43548a8aa2"
+        "next": "990a54c70669560d4c378f716099c388653ae781"
     },
     "core-hw-kit": {
         "next": "8cd5883c4f5e38643606637df0a2ceba8041985a"
     },
     "core-kit": {
-        "next": "fd2e04cff772e92ec138b8cc0b5308ce05872b9a"
+        "next": "9971bf540ca3acdae3d9c1ae359daafa8e51a95f"
     },
     "core-server-kit": {
         "next": "042f0618e78eb8aa78fc1a6e972d488bc2a74db1"
@@ -37,7 +37,7 @@
         "next": "419a4dbe0ca24a7150598e5c97aaeca2f1cd5f5b"
     },
     "kde-kit": {
-        "5.22-release": "5ef3fe8a152417a099f4b1efca040e1bf8d609b6"
+        "5.22-release": "8ce150e9eea4f68d16e08f9e18ce1e8ac8bafac7"
     },
     "lang-kit": {
         "next": "bc267f8a6fa84675464b382477238a0b4bd88431"
@@ -49,7 +49,7 @@
         "next": "56a4b1e817465f393242ed1cb87c3ad46b59e557"
     },
     "mate-kit": {
-        "1.24-prime": "37331a3cf61f6fe866f7b6764d19d631aee920e6"
+        "1.24-prime": "80ebefae8bdde26d6247c7f8d2821a7efcaef937"
     },
     "media-kit": {
         "next": "223a31eda22faa3de0ffefe73b0e0512e799ff7e"
@@ -64,13 +64,13 @@
         "next": "d66861740ff5d014deb80740958cefe7543cdb10"
     },
     "python-kit": {
-        "3.7-release": "9651cf96ff4cb03c7393089d7a6fbe068ffe3702"
+        "3.7-release": "5877e633493cd19e5ab4b548ce4a0e66c5c43905"
     },
     "python-modules-kit": {
-        "next": "18e98b081d773d71d09fbb468c664a307c6514ed"
+        "next": "3c4f9a0e9a07677d2b50b2b3c0e8be13e5324e00"
     },
     "qt-kit": {
-        "5.15.2-release": "a428f909c37eba56ca69d32e3cd6106e6bf54603"
+        "5.15.2-release": "23f0391300a837306dfacfb2129ae2f2f2a3ac89"
     },
     "ruby-kit": {
         "next": "e18ef326cfadbfca5f8e35f5cbe92aceaf3d019a"
@@ -85,7 +85,7 @@
         "next": "010882ed949bbe679cec75b3e280615433fdf202"
     },
     "xfce-kit": {
-        "4.14-release": "cad723500d0adbd2193bcb7351aa8c83b02dca40",
-        "4.16-release": "addc26c0e26f4865b0250bd44dbe1cc6e5678200"
+        "4.14-release": "9f745dc0be52cb8e9f09939d9564de08ced9946b",
+        "4.16-release": "25a786615991896b0ded5821a86434c59d418804"
     }
 }
