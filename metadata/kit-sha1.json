@@ -18,7 +18,7 @@
         "1.4-release": "dba4e81458fef1ba9b0e2de7ccaf631c6e7533a0"
     },
     "dev-kit": {
-        "1.4-release": "15d455a0a295a14c985f9593211dee60ef621bdc"
+        "1.4-release": "8c78615b94607b3e0caa1fc438030a236275d55e"
     },
     "editors-kit": {
         "1.4-release": "530f662e4f459a04d8424e936d712ccbd6ba5d41"
@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "40-prime": "a465b1de748089dad67a3bf34567a778ded576b7",
-        "41-prime": "d7d5b5714dc0fca7fe3ef162dcc3dd80a2fc1fee"
+        "41-prime": "015a780762b8ca153a27e204a0ae6dd85a9c19e1"
     },
     "haskell-kit": {
         "1.4-release": "7e709d12c558833ccaf3877f723bc3d03df490fe"
