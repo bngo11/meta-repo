@@ -3,7 +3,7 @@
         "1.4-release": "1aba6f63b906d45abf798a30327e3ec70397507a"
     },
     "core-gl-kit": {
-        "2.0-release": "89f0a261096acbb4336b89a7a2dbe2df0a079260"
+        "2.0-release": "6e9a2e2b3b56df4cdcedcf41dc9d69b7bd78c7b8"
     },
     "core-hw-kit": {
         "1.4-release": "27a8a4d34486272181850796a280dc8cc38641f6"
@@ -52,7 +52,7 @@
         "1.24-prime": "4a2b4afe68087f4143e75eddc24b429e750f0dd9"
     },
     "media-kit": {
-        "1.4-release": "0ca1e7be1a3a8ab5d7e59948d083a00fe563da78"
+        "1.4-release": "6fbb9fe94cb1afa2469ecdc1eb4a327ef8663c1e"
     },
     "ml-lang-kit": {
         "1.4-release": "a5a382b66dd7232d37fffe3f7d88c5b78e7955f1"
@@ -70,7 +70,7 @@
         "3.7-release": "bf36eeae78942a52ecbfa276ed047832f2528bc4"
     },
     "python-modules-kit": {
-        "1.4-release": "fe5d3f83abc8c94f2ef1352eb2bc404ca5571695"
+        "1.4-release": "2d1fef768936edbe613cc47e82d8a4ecd76b0591"
     },
     "qt-kit": {
         "5.15.2-release": "7470a1a8b99d81cb4acf4c4cab2c7eb6b3da5244"
