@@ -1,34 +1,34 @@
 {
     "browser-kit": {
-        "1.4-release": "419a7f6c034a1e25a388bc68140f16234319f616"
+        "1.4-release": "6ad1f639f4e008a009cdc76627b6b94c8229d505"
     },
     "core-gl-kit": {
-        "2.0-release": "07e29b29f0b4a8e4e8b2a43d19bdb88304e42271"
+        "2.0-release": "43ecdcec9c6b7256992487b3723f7ed239554bfc"
     },
     "core-hw-kit": {
-        "1.4-release": "a4dcd7c922061979ebeb1decb1ba553b0e00c324"
+        "1.4-release": "97c7bb630d1d1190d9f0a4496d66febe4cb35550"
     },
     "core-kit": {
-        "1.4-release": "8660af076949865ca3f46e3680fedc8df97d7bef"
+        "1.4-release": "ec800982ea71c3b4ccc1f7bde20614f552ba2a0e"
     },
     "core-server-kit": {
-        "1.4-release": "4a53738f57fcec533a356bfabb81c0b32cec0e59"
+        "1.4-release": "7ac92ac248a6faca7c1b578e2ca58c83bd8b5827"
     },
     "desktop-kit": {
-        "1.4-release": "fac106595037d45fe437fca15ababe04dd1213dc"
+        "1.4-release": "b920b4ee2bc4da3f664981a351329e6336e712e9"
     },
     "dev-kit": {
-        "1.4-release": "1b5f80d045f7378f45e272932013be0fbaea5d0b"
+        "1.4-release": "b7fc3b746b6c28c40c6db3abe8ff8bf7560d2eb0"
     },
     "editors-kit": {
-        "1.4-release": "33d56cbcde244c946ad4c128dae4c16a7fe3df0f"
+        "1.4-release": "fbea141f3fd3874765668a6d414c5941ec43f2bc"
     },
     "games-kit": {
-        "1.4-release": "12b3f2749fb806886c2df4aada2f042c9b76380d"
+        "1.4-release": "6f5d551043b0db82e49ad5b179ec54e00c76c405"
     },
     "gnome-kit": {
         "40-prime": "51712daaef4d384f97e00d18e42a5a6a8066500a",
-        "41-prime": "61d039effea62183a47cbd54dbc4ca6a52f8ad7b"
+        "41-prime": "36770301053e6421dfbda458e236c9cab72dacbb"
     },
     "haskell-kit": {
         "1.4-release": "f5a8f9fc4152604635929c405cf8798b6bf82928"
@@ -37,10 +37,10 @@
         "1.4-release": "e353b794bd212e2e120fab0568d67b8d0de5b0d5"
     },
     "kde-kit": {
-        "5.22-release": "fb2001ad166b2f2de094cf4ab91c0182e5cdf40e"
+        "5.22-release": "b67ca6e165b921a9f293b8ed50c8943ae79a55ff"
     },
     "lang-kit": {
-        "1.4-release": "e66a1b3c045d4c952060b2a9f3bbfad7b9bbef7c"
+        "1.4-release": "c4482f754d5f2707fe419c4be38be841da5e32aa"
     },
     "lisp-scheme-kit": {
         "1.4-release": "5c2cfc424c9380ef689b699c97d7054e301d7bbd"
@@ -52,16 +52,16 @@
         "1.24-prime": "f4aca1f762c02d2d641f7f6732a531ea15e8f34b"
     },
     "media-kit": {
-        "1.4-release": "30ba0afd44d1a84b29ee310cb82ac38f2589966f"
+        "1.4-release": "54a7dc0544dff06df4be84e6e54bbccd46259f29"
     },
     "ml-lang-kit": {
         "1.4-release": "05acec7b8c0dab2f442fe2d6f84bf29a7e4731ce"
     },
     "net-kit": {
-        "1.4-release": "df7e8059dc7f3ee0e7d5a820c9da426d844d8799"
+        "1.4-release": "d4d30a2fc441a354bc2311f907c1522951fb408c"
     },
     "nokit": {
-        "1.4-release": "a55c6f4e00d964516fc92bb6a91834b65542ab34"
+        "1.4-release": "b7c871f5efabbf5166d9c4f360fc029a87a609fd"
     },
     "perl-kit": {
         "5.32-release": "1886c1f1f58b77c9e0d4f9cfb3210a11e8c6a94f"
@@ -70,22 +70,22 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "e2c92a3ff532fae5b052ac36f3bf8f921bb94331"
+        "1.4-release": "771355dabcabeca9693864c463b285691cadb45f"
     },
     "qt-kit": {
-        "5.15.2-release": "594eb463efe4ff97fbe5de947fb8810f17ae0e03"
+        "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
     },
     "ruby-kit": {
         "2.7-prime": "aa1610d32c12caa091a060e2a3b1e67b7f571c70"
     },
     "science-kit": {
-        "1.4-release": "b418c2629c54af2d9ea70afe6bd4628213e17209"
+        "1.4-release": "ef81eb5f8497eae0863b19030bb03141613412db"
     },
     "security-kit": {
         "1.4-release": "d9b324c17d192a88b5b14b7f82f19b579bf060aa"
     },
     "text-kit": {
-        "1.4-release": "22a0a2a9c7801f8f860c1fcd885323db20448098"
+        "1.4-release": "332f796bfc14187760d7f58fdd857c6ea76506bf"
     },
     "xfce-kit": {
         "4.14-release": "dabe0d935969a843254b457d2e7f519fc15a9a0a",
