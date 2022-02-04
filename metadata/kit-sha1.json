@@ -27,7 +27,7 @@
         "1.4-release": "aaffcbe008453daa8d0011e95789a52174e4f7bc"
     },
     "gnome-kit": {
-        "41-prime": "555dfd48345e02c26fa5ed2a15081e31ee061eec"
+        "41-prime": "5c9ea754a1a8e76d84d81fd5a22e7fe24e1be7be"
     },
     "haskell-kit": {
         "1.4-release": "f5a8f9fc4152604635929c405cf8798b6bf82928"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "1468be6d207367126b7ccf0acd9ba5b4b7112f26"
+        "1.4-release": "6d887d83373afe1bfab8071ef3a53c5061309355"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
@@ -84,7 +84,7 @@
         "1.4-release": "509907277a0b173525bf5e584c9a6fff42b40992"
     },
     "text-kit": {
-        "1.4-release": "ca2eb09a8242fb7796014028c5ec031f72bcde74"
+        "1.4-release": "2fcae50fdfa4fc4adfdc9a93dddab750f58398a4"
     },
     "xfce-kit": {
         "4.16-release": "5822877caf1042a74f8c38f5b65f9daea4059d65"
