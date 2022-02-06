@@ -1,33 +1,33 @@
 {
     "browser-kit": {
-        "next": "1212a7ec0e62b7556c7106d9c757207db2782a65"
+        "next": "6944e673f7ddcd3ebd8e55c4a446aebc4e69a0cd"
     },
     "core-gl-kit": {
         "next": "224f8736e6cdeae76d8bdf479e9cd5d835f9a7bd"
     },
     "core-hw-kit": {
-        "next": "11022a62060c7167af585a471efd1bbd1072007f"
+        "next": "16f9f84d0ff99a5478ed97be822b72fbd26cfbe2"
     },
     "core-kit": {
-        "next": "14642323b57f200803a2d7dbd276028fc219f2fb"
+        "next": "f2b5b16f2b323113f3340bb5c8a5a73628e86ed8"
     },
     "core-server-kit": {
         "next": "78bb652c4e567c950955540281b074fb1cdbe862"
     },
     "desktop-kit": {
-        "next": "3bfd6203f6b217e7d41b46d29d46e40c6749fc5c"
+        "next": "35ba7cf810eaa5351db7f209e28e1ebe6ce26f03"
     },
     "dev-kit": {
-        "next": "64a0bc0b6af5e2188927ad6dd26150f9b6d1119c"
+        "next": "5779065cb9a8b665c3b8b66b170e8bd93401da21"
     },
     "editors-kit": {
         "next": "1c5ae4c1b9ca386d3c41632893126199b4891f98"
     },
     "games-kit": {
-        "next": "fac725b370ec6ac825a20d434d6a0fd03444bfbb"
+        "next": "e3df0b5f5755bf8b78329956c347ae0f3a9d109f"
     },
     "gnome-kit": {
-        "42-prime": "d280172902b567e5a8dfcccd81c0c7ed68c8be2a"
+        "42-prime": "f6fc195e7330a6ec785dc5b589427019fafafc05"
     },
     "haskell-kit": {
         "next": "6216ebc0567ea165f34c2a1a67faeaa350eb589b"
@@ -51,7 +51,7 @@
         "next-1.24-prime": "d2c9ad508a7df98cb463354d5fb36095782eb944"
     },
     "media-kit": {
-        "next": "dbda11587220d9d76f3fca43a2a64a60751691b0"
+        "next": "ac8caff3bc4763762031169dd6e15f4028d65c9a"
     },
     "ml-lang-kit": {
         "next": "11fac51c0002a1e085447bc4c62c081cd5ef0007"
@@ -66,7 +66,7 @@
         "next-3.7-release": "8c8299b354a29e78fb3682b158ab0413bea9cd52"
     },
     "python-modules-kit": {
-        "next": "28c55019877ad2433ba22ce4113bb8600e00b9a7"
+        "next": "8871da4fa245be8c452ae4e4081cb68e88dc99af"
     },
     "qt-kit": {
         "next-5.15.2-release": "4a307dfff0ed73c8ff7b50d995b73a9a5a5251a7"
