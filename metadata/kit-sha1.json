@@ -1,30 +1,30 @@
 {
     "browser-kit": {
-        "next": "ba6536fdc95347a5adc5c0746aebce8642261306"
+        "next": "a6b862a85baeea6cd952016f15d6451f0de86ecf"
     },
     "core-gl-kit": {
         "next": "e4ee28fdb45b1d0e39b02d3cd6560fbe9e2572fa"
     },
     "core-hw-kit": {
-        "next": "bf04cdfd8872341845a65c02215283e46dbbbf0a"
+        "next": "d92ff1803304cd8e01a699015afc3de9d45e0c33"
     },
     "core-kit": {
-        "next": "447ffca76b45036ab8836c52984a69a472e496d8"
+        "next": "bfe67572d4cccacf9280fc9d09afd1f6199eba57"
     },
     "core-server-kit": {
-        "next": "d57de767bfc0f82fc380809326abdbebf3fbd6a1"
+        "next": "f80d6690a447989704ac00b86625dcb52becde04"
     },
     "desktop-kit": {
-        "next": "7e8c3f0b9d6dcac941080f5d8727ba4596f4f32e"
+        "next": "8367af9560b1aa80d331a159f89f2e8e7adcbba9"
     },
     "dev-kit": {
-        "next": "81dd1a8f16204fe442f5a212a20b7cd6d2b05e89"
+        "next": "59443a7e4816c8e6b02390c55d4cb93f8a4eb594"
     },
     "editors-kit": {
-        "next": "4257a8de0f2bc2866b0a16001b2071fa3d9ae5f7"
+        "next": "3a9fa5720b15b171507335a0aa1c1dfd8e10a7b8"
     },
     "games-kit": {
-        "next": "e3df0b5f5755bf8b78329956c347ae0f3a9d109f"
+        "next": "616a5ab901a3ee7812f6be3227a6650d0afc32a3"
     },
     "gnome-kit": {
         "42-prime": "63c6622bacc03a61e79312b7d81d102c225670a0"
@@ -36,7 +36,7 @@
         "next": "8e4f426bfaac1e0884f4df7c89d31c815970cedf"
     },
     "kde-kit": {
-        "next-5.22-release": "1b5b7efc056e5db6f29d57fc29822fcf82fa7ab8"
+        "next-5.22-release": "76d13110f26b0b022e46c33c28433316c2aba245"
     },
     "lang-kit": {
         "next": "e333ea6fff3fc1c4fc33504a4d194d11072ea6cf"
@@ -57,7 +57,7 @@
         "next": "11fac51c0002a1e085447bc4c62c081cd5ef0007"
     },
     "net-kit": {
-        "next": "6fbc25d270ed35c3b575cd4e9fb05e3a1034396f"
+        "next": "689fd270cc05387590b8ad43b155dd1e1da4835b"
     },
     "perl-kit": {
         "next": "58c509ce00ca0c16cede79e55cbab980c45bedb0"
@@ -66,7 +66,7 @@
         "next-3.7-release": "8c8299b354a29e78fb3682b158ab0413bea9cd52"
     },
     "python-modules-kit": {
-        "next": "10c580dd345792aca359de9b410a478f3949ff0a"
+        "next": "e1c1e814273d815574e33d847675531769f9ef56"
     },
     "qt-kit": {
         "next-5.15.2-release": "4a307dfff0ed73c8ff7b50d995b73a9a5a5251a7"
