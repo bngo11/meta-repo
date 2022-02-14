@@ -3,7 +3,7 @@
         "1.4-release": "1d5d26a62e050307621251adc65139ab71a3db80"
     },
     "core-gl-kit": {
-        "2.0-release": "f42167494d46ee14c22bcfa0c877f63585186324"
+        "2.0-release": "a17ff377bbd1acfe872124978fb47f7c1ddffc02"
     },
     "core-hw-kit": {
         "1.4-release": "79baa5417a93a562fbbb657a8ddae01fe1ac0499"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "e30ab16baf429d48a3944f3a704209a9f352450b"
+        "1.4-release": "b937cf065ffab7b9461a4fffa7ffedfc96f3137a"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
