@@ -18,16 +18,16 @@
         "1.4-release": "9fc168ef6cff036b4d5ebe8d4d27789a09146de0"
     },
     "dev-kit": {
-        "1.4-release": "b2891e6ef547c006c9563017d042d3b3bce948e3"
+        "1.4-release": "eb220b682e23c0b15b7912d2fae8f6388a8fb7fd"
     },
     "editors-kit": {
-        "1.4-release": "3f513cd568f94933bd47f45897775aa9c5a01cca"
+        "1.4-release": "d4374ab842056bedcebe98224be3c974252f0e73"
     },
     "games-kit": {
         "1.4-release": "023e09b439e5364cc80751e0debcf56dc8322cb8"
     },
     "gnome-kit": {
-        "41-prime": "ed86aaba674d5b825147450106637aea8622e4e6"
+        "41-prime": "f84c66ca5ac52f619d86cb5f2fec64710b7a1e0d"
     },
     "haskell-kit": {
         "1.4-release": "f5a8f9fc4152604635929c405cf8798b6bf82928"
@@ -39,7 +39,7 @@
         "5.22-release": "a904b046dd7acdfeba63d2fac0463bec7ca4e27b"
     },
     "lang-kit": {
-        "1.4-release": "daff9e711064dae83e42b1ed0ad882f4e96fa5ed"
+        "1.4-release": "218fb67a7eaa766d07ae15a60cde806a200c1d6b"
     },
     "lisp-scheme-kit": {
         "1.4-release": "5c2cfc424c9380ef689b699c97d7054e301d7bbd"
@@ -51,13 +51,13 @@
         "1.24-prime": "24cf6e1c3e4bbed6029c2305406617b98983e61d"
     },
     "media-kit": {
-        "1.4-release": "f85f04a959d387ed8b61da2ef3642563c06faac5"
+        "1.4-release": "5b6002fad380097c3ddc237a11f18613387532c4"
     },
     "ml-lang-kit": {
         "1.4-release": "05acec7b8c0dab2f442fe2d6f84bf29a7e4731ce"
     },
     "net-kit": {
-        "1.4-release": "4fe2872d1119efff3e80ecd51d50f31e5aec8229"
+        "1.4-release": "d6a93b58f0ead12c818a193b64742668ec971bc1"
     },
     "nokit": {
         "1.4-release": "2e98299fc912a84b7dffe485134c7f22c8ed717a"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "5b68c3ba28729ddf5864914167fa1ad621a8a473"
+        "1.4-release": "e30ab16baf429d48a3944f3a704209a9f352450b"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
