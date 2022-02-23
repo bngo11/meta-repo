@@ -39,7 +39,7 @@
         "5.22-release": "a904b046dd7acdfeba63d2fac0463bec7ca4e27b"
     },
     "lang-kit": {
-        "1.4-release": "e3419787e8e04d85ddbffec7b724689c28117783"
+        "1.4-release": "d5541e73df4dde6c6214b8458a53a510d147b73f"
     },
     "lisp-scheme-kit": {
         "1.4-release": "5c2cfc424c9380ef689b699c97d7054e301d7bbd"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "f02f4537b0705ce4ac42b3895baadcb0c0ffe405"
+        "1.4-release": "a12e5b92aec22e07a9f0fe3b5d926abda412d6ff"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
