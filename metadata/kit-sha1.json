@@ -18,10 +18,10 @@
         "1.4-release": "39ad015573c44a109dd99ba28cf67b0f3bcdf494"
     },
     "dev-kit": {
-        "1.4-release": "bea2507173eab14fe5fd8a04af5cc79115cb6192"
+        "1.4-release": "0146e386133fad32d5aeac0b6f176a3d0abfd836"
     },
     "editors-kit": {
-        "1.4-release": "bf59323e64ca9a044edc4b2dc135934b702e44bc"
+        "1.4-release": "e759bb05389a5ae63e7f4c63a7ae9026f0e09ba8"
     },
     "games-kit": {
         "1.4-release": "a321505a0fac96d8b5336b60a628c6d73a0cbbca"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "109092ff607a5ebb4f5765796e8016e3c18c66d9"
+        "1.4-release": "1d974c787e8223a8cd209f1c4bae42efbadc0db2"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
