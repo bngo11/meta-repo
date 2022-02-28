@@ -6,7 +6,7 @@
         "next": "165ae3c129c5fd226a78ca07b009c1e66f499d02"
     },
     "core-hw-kit": {
-        "next": "1d2280d6e0b7164dce86ac29688888362cad5423"
+        "next": "1847aa5c92644ec9782744f4044b7c7b4248b595"
     },
     "core-kit": {
         "next": "d64966485232a2a9b21166021cafeda2862d9909"
@@ -18,10 +18,10 @@
         "next": "a4ebbc151d5faf4a1d083d446e0ec2ff2f49a4da"
     },
     "dev-kit": {
-        "next": "8eade476725472c7aee739a6e934cc39e3ee7e96"
+        "next": "8671f6d667f46dbecb12890e393016c06e05d655"
     },
     "editors-kit": {
-        "next": "0304c2e43c7296517be8130b464b54593e030c06"
+        "next": "18e360b47a2383fb5ab8eb0b818ec535ddf3020b"
     },
     "games-kit": {
         "next": "e81d94609bb1da39d13e488fe3be339fd25ca776"
@@ -66,7 +66,7 @@
         "next-3.7-release": "8c8299b354a29e78fb3682b158ab0413bea9cd52"
     },
     "python-modules-kit": {
-        "next": "a381d4049214d32c04d391d7c5bab780554094ab"
+        "next": "7eb4c72ea1fe6a5850e22a3f97739394af135432"
     },
     "qt-kit": {
         "next-5.15.2-release": "4a307dfff0ed73c8ff7b50d995b73a9a5a5251a7"
