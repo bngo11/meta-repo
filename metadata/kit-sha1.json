@@ -1,12 +1,12 @@
 {
     "browser-kit": {
-        "next": "ed8e80945a516647469c593c67494d707ecadf35"
+        "next": "7cf48341b99ad66cd0b9e7255c3686ac03338d96"
     },
     "core-gl-kit": {
         "next": "165ae3c129c5fd226a78ca07b009c1e66f499d02"
     },
     "core-hw-kit": {
-        "next": "1847aa5c92644ec9782744f4044b7c7b4248b595"
+        "next": "e111bf466b80848702ed560690331442733dbbf4"
     },
     "core-kit": {
         "next": "d64966485232a2a9b21166021cafeda2862d9909"
@@ -18,7 +18,7 @@
         "next": "54d8edecb097d35c2c264e519af116d07ce8427b"
     },
     "dev-kit": {
-        "next": "8671f6d667f46dbecb12890e393016c06e05d655"
+        "next": "e6163a90fd26b6898edd8a5c4b68ed87464114bb"
     },
     "editors-kit": {
         "next": "18e360b47a2383fb5ab8eb0b818ec535ddf3020b"
