@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "4cd5fa9dc9682ec4d1c1ae24798dec3935ea7036"
+        "next": "e05a5b630f7fed29cf67f9c18b0360a2a440447b"
     },
     "core-gl-kit": {
         "next": "165ae3c129c5fd226a78ca07b009c1e66f499d02"
@@ -9,10 +9,10 @@
         "next": "770d0e2b8a634b8bab3ed3dd324270d9e39e41c6"
     },
     "core-kit": {
-        "next": "0f0c2fcad6679e239aea4e078fadf2c6123f40cc"
+        "next": "fd6ee1b07b672136eac730ce12c6a9b310439e12"
     },
     "core-server-kit": {
-        "next": "cb2e488235b87e08560852c5defd5e587cf8f725"
+        "next": "be3f484bb2265174594bb7678ba1288ff13ce6b5"
     },
     "desktop-kit": {
         "next": "66cd2f41829ffb5974e4292f7ee4b132c6d15b6b"
@@ -24,10 +24,10 @@
         "next": "4818b947f9f873d2c4c6f419d26a62ce3194267c"
     },
     "games-kit": {
-        "next": "a4f8a0904c891afd73ddc52b0a9a2dfba70d42fc"
+        "next": "22a60cb1c6d677254ea4b3192326cfb7ca5a99ce"
     },
     "gnome-kit": {
-        "42-prime": "a194b7d27f1247d6498c6edea5c94d460ca0fbeb"
+        "42-prime": "7379c5b40dd64810b9a991aa91dc9f69489c6491"
     },
     "haskell-kit": {
         "next": "6216ebc0567ea165f34c2a1a67faeaa350eb589b"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "d2c9ad508a7df98cb463354d5fb36095782eb944"
     },
     "media-kit": {
-        "next": "e86fbe0a3da78dbfb986c3efbc008db1986f95ca"
+        "next": "057298b2ec4af28c0894bb629a4bf8edbce770f0"
     },
     "ml-lang-kit": {
         "next": "11fac51c0002a1e085447bc4c62c081cd5ef0007"
     },
     "net-kit": {
-        "next": "8264b7fdda1bc97f13880a95f752605ed438ab22"
+        "next": "efce8921e16e872a9f2a8d04b92d90f67cbc74c8"
     },
     "perl-kit": {
         "next": "58c509ce00ca0c16cede79e55cbab980c45bedb0"
@@ -66,7 +66,7 @@
         "next-3.7-release": "8c8299b354a29e78fb3682b158ab0413bea9cd52"
     },
     "python-modules-kit": {
-        "next": "00b7b7c773f12a7f8b8a8b0850ee48dbde36e00e"
+        "next": "0bd82cbbba9983a12b526005e2a45425e43112f6"
     },
     "qt-kit": {
         "next-5.15.2-release": "4a307dfff0ed73c8ff7b50d995b73a9a5a5251a7"
