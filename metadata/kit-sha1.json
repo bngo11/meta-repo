@@ -6,10 +6,10 @@
         "next": "80648c6beeb54ae492086cd4b4ec4cf064b71a14"
     },
     "core-hw-kit": {
-        "next": "0bf9424899dca0fc62d950fcb2b84d12a4bc26c8"
+        "next": "18f46769edc82837c590b59f47dc94c8d7348db3"
     },
     "core-kit": {
-        "next": "23722f13ba4327e2e94863b346a28f0e83181213"
+        "next": "9b74ceb523044ca5b890614c6e10cacc857c3b7c"
     },
     "core-server-kit": {
         "next": "dd15f5c0253909ed838e5fba5b58de90d792cce0"
@@ -27,7 +27,7 @@
         "next": "89d033201d8812750590517aa5ccd0054d5676fc"
     },
     "gnome-kit": {
-        "42-prime": "f543f0e9e16b20956cbeb65e7ac62f768b1fff26"
+        "42-prime": "90fad15f77406642615792b02f7d7943694b56d5"
     },
     "haskell-kit": {
         "next": "a96a35661e9bdbe1f5e8ca736f953da392f162c8"
@@ -39,7 +39,7 @@
         "5.23-testing": "7f98143bd97fc14dc44dfbe7c51ecd25b5820508"
     },
     "lang-kit": {
-        "next": "4a7df0d84933000d8aae154c904d4c88e85c3932"
+        "next": "a8a27413b7b1809a54db48b880dededebfaffa7b"
     },
     "lisp-scheme-kit": {
         "next": "7672d9e2d2dc6a849e32d09965381604d46b26e4"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "7450d6acfbda23b4c5d186af5d76b23c95ce3b94"
     },
     "media-kit": {
-        "next": "f9229c69dcd2e0f1611c1eda9492c91e915d7999"
+        "next": "d102f38a9a00d167c31fd4565f8168836e79f96a"
     },
     "ml-lang-kit": {
         "next": "ab496578a874e36240f693b264ceb17c1ff2c01b"
     },
     "net-kit": {
-        "next": "e6c94c27a758963db2f3bdf7d660ba85d8a640e7"
+        "next": "8a5709b4ff896f43124b49c368c2ef3b8ae2e84a"
     },
     "perl-kit": {
         "next": "58c509ce00ca0c16cede79e55cbab980c45bedb0"
@@ -66,10 +66,10 @@
         "next-3.7-release": "ab0f262a670db569841b2a5656cb686f46705f8a"
     },
     "python-modules-kit": {
-        "next": "8e3182f0567310ab6fb8dcdbbd05f49c0117c0c6"
+        "next": "a6f1e9fa1829a7820b70800a663cbf4a3ae261f9"
     },
     "qt-kit": {
-        "next-5.15.2-release": "331cd5efc174812f55150d1e492144531fe2a1d8"
+        "next-5.15.2-release": "fcbb7e1bf2715b78375ac577515c017ad2cd4cd0"
     },
     "ruby-kit": {
         "next": "3dc929b93a66a7c72e161de50c1f0a94b7c50936"
