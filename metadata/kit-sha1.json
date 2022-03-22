@@ -18,7 +18,7 @@
         "1.4-release": "e46d34f8ca81639fdded460156eed18b524ef984"
     },
     "dev-kit": {
-        "1.4-release": "07337d466652f2d90ae8a51e5e986cc8234fd85d"
+        "1.4-release": "704da929cabe569ce9fe551905b03aa64931157f"
     },
     "editors-kit": {
         "1.4-release": "6fc98dc08055ebdc08eb8a8055c8c3ab92ec486e"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "09aa835f3e8da8a3f10a9e56f1af10276498e744"
+        "1.4-release": "625270865ccf32f4e3a69f36ff9e12a8ab8927ae"
     },
     "qt-kit": {
         "5.15.2-release": "d054474370ef0a14206d79b2b42181205124508f"
