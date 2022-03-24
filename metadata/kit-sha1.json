@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "next": "e1958821ae09b6474858db5d11692ceab3d83066"
+        "next": "d0d2f406960da3bfdc45ec20c918f845690cee0f"
     },
     "core-gl-kit": {
-        "next": "687948ce1ff9e2b24867c6c637584ea6adad2079"
+        "next": "d9f64806a945ef269ed2f60d6d2eee446e1ce582"
     },
     "core-hw-kit": {
         "next": "7958bce484fd2f6b61b31f535c6c77d1ec3abe8e"
@@ -12,10 +12,10 @@
         "next": "228bb9a078d355bbe336af826c99e47ffa8d4801"
     },
     "core-server-kit": {
-        "next": "886b6b8da6018d86c7653d328b53ca06e6fd1eb7"
+        "next": "118ae68d27560e1277dfbec993e059b2ad4a25be"
     },
     "desktop-kit": {
-        "next": "aaf9ebe2806c6fee6347d90e9f97ae1dff34a1ce"
+        "next": "f159821136e2b0c19123512b8aa79c19383241d1"
     },
     "dev-kit": {
         "next": "0afa4ddbe637906e7678110ddd84e364ee626ca3"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "7450d6acfbda23b4c5d186af5d76b23c95ce3b94"
     },
     "media-kit": {
-        "next": "3d6a1c4fd6d2ff559be6bf997e36afc0079a411c"
+        "next": "a9d4fddb12e6539a85fa98e92228f2d0d0ffda34"
     },
     "ml-lang-kit": {
         "next": "ab496578a874e36240f693b264ceb17c1ff2c01b"
     },
     "net-kit": {
-        "next": "70afdb3e87c303745d67043c949407afad253226"
+        "next": "09597d18d4457b8b25993b09595a2426088cac6e"
     },
     "perl-kit": {
         "next": "58c509ce00ca0c16cede79e55cbab980c45bedb0"
@@ -66,7 +66,7 @@
         "next-3.7-release": "ab0f262a670db569841b2a5656cb686f46705f8a"
     },
     "python-modules-kit": {
-        "next": "f1eb68634f92c1fcb81a2e4b9c8a1ab6c894a4c6"
+        "next": "b861d279b7f3361c9b4bb3afda97cce6da389bc2"
     },
     "qt-kit": {
         "next-5.15.2-release": "fcbb7e1bf2715b78375ac577515c017ad2cd4cd0"
@@ -75,7 +75,7 @@
         "next": "3dc929b93a66a7c72e161de50c1f0a94b7c50936"
     },
     "science-kit": {
-        "next": "8980eeb23bb8a6bf86d423b3b192f30c14413f09"
+        "next": "02178bd162018542c50b0a48dce90be0ce18f8d6"
     },
     "security-kit": {
         "next": "4195580e44f3f3935029a32b124ef923e582a880"
