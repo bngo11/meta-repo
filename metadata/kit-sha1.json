@@ -1,63 +1,63 @@
 {
     "browser-kit": {
-        "next": "365605747cb6c89328c168ab2a97e99d24690d1e"
+        "next": "ad930aed4226c8173776c46ad92899de54a23c5b"
     },
     "core-gl-kit": {
-        "next": "5d7d91804045fd18f52095ebe90a04ad3259dd35"
+        "next": "d9874b2a62661e79f6cf4673ed5fbe79c2c30ddf"
     },
     "core-hw-kit": {
-        "next": "207e7ea8b1dbc2c33f9f5df612979c2c38789b3a"
+        "next": "b810e682552351905f20ffaab63e640b6d843f64"
     },
     "core-kit": {
-        "next": "f2f03c077d64b38f26c36b16ffbf3eb6f0b77f51"
+        "next": "9e72a7fcb1c61b1beaf9094b3ccdc2e50ecd76bf"
     },
     "core-server-kit": {
-        "next": "bfd6c8f81a19fc78e5f178877d78a9ade81414b2"
+        "next": "4a6fb44fb889c6ab6d277c78f732f1556643dd63"
     },
     "desktop-kit": {
-        "next": "67a186ea5064dfae26cce86b5f7343209e6ffc74"
+        "next": "aeaa4e11d1189273036413356a305f7f50f033d4"
     },
     "dev-kit": {
-        "next": "4e3f7c20b7b0443bf933d798c908be7a75ae3f0b"
+        "next": "e3c4dbb655284c9fee5a65ef04d0be8687511299"
     },
     "editors-kit": {
-        "next": "01a79e61afc7710097bbf957637c757050e59400"
+        "next": "75dd9f8a10c37589fdd67a48fea29a0881bf81d1"
     },
     "games-kit": {
-        "next": "bbbc2960edbe1aa36143d7bab98a1c817c084d12"
+        "next": "35cd2c77c72ba7e9c153b9d253118523691920c0"
     },
     "gnome-kit": {
-        "42-prime": "2e7deef34149ae31aca52ed9d8ea1d6b3835be84"
+        "42-prime": "88965b4da1eb6dd5d03e0c23cdfe57994613dc45"
     },
     "haskell-kit": {
         "next": "daa8368b3f9989628da049d137343ae0404cf97a"
     },
     "java-kit": {
-        "next": "8f6bb6ea3a7e007eb5bc216032e3e8803e2af915"
+        "next": "4e82c10af49a9cf201efcfac4751081e0a5a56df"
     },
     "kde-kit": {
-        "5.23-testing": "bdf4c13b518f61d0a4bf2587c2bf9703ebea17fd"
+        "5.23-testing": "db7fea0cf0eede72cb6b3ec966ab23e4b7c29d43"
     },
     "lang-kit": {
-        "next": "c4d070b890a338bc99ea3d27382b7c9f0dc12688"
+        "next": "bc71f73ec0cdc29a8b1a74276a6095e216ed2706"
     },
     "lisp-scheme-kit": {
         "next": "60f512310322eb6b979999edd7eed3fb96b9b4a6"
     },
     "llvm-kit": {
-        "next": "69b3f035be8954e14a48903ea4a40381c8f8e123"
+        "next": "80bc525f2c06c525bc1b39b72d1a6f4046581af9"
     },
     "mate-kit": {
-        "next-1.24-prime": "01c99a05527de6b534997ca88ebd910675b3d631"
+        "next-1.24-prime": "f59c1cce4bf3cb0cf7aa3ec2ab416fc30cf35ad1"
     },
     "media-kit": {
-        "next": "9bfe259d69270410b4faa949759664a89d8dc1f0"
+        "next": "da7144b68cee23b0d8a024001958c66e07ef0c27"
     },
     "ml-lang-kit": {
         "next": "8862579bce396dad57e86ad2354ba9a8620db088"
     },
     "net-kit": {
-        "next": "c4c6b85a0b9be3a834701a2ba051aaa3d13e78cf"
+        "next": "71a8bb7906158c0b02d64280ec3c9ff08c80e401"
     },
     "perl-kit": {
         "next": "d7467fe1eec20584308c63c6dab102334b1a27c4"
@@ -66,24 +66,24 @@
         "next": "e04bbd12f19144b230b82f5cebae8bdff4464961"
     },
     "python-modules-kit": {
-        "next": "69edc1801de2706e444c0cc3f3ec76f03d564224"
+        "next": "3d72daf40b706fa56909cf168c19c0b41ba88922"
     },
     "qt-kit": {
-        "next-5.15.2-release": "985c85979db271e52a149df7698a8666a6e2227c"
+        "next-5.15.2-release": "dc17a510df18f41c97db6a0c6a9b60da1b8317f6"
     },
     "ruby-kit": {
-        "next": "a0deb3d84fee1a847dc129418cbba3dde64a0d90"
+        "next": "6ebc730d86d8f027e8e2979efc9986892c7af975"
     },
     "science-kit": {
-        "next": "9be0230bcb1986932fb1004f72895ebfa603a01b"
+        "next": "79c2dedaefb843c1f167ae41e11bf47f604bd57d"
     },
     "security-kit": {
-        "next": "a9312724653026b8fd872e19e891d13c183e006e"
+        "next": "891a75e241f0e5aad1c9fcf2480bc7bc043fd2b5"
     },
     "text-kit": {
-        "next": "190e569dcb6af6a1fdbab6fc4988dab0fc1c71de"
+        "next": "f2388b1146a0139a1455fc7ef64dae9f5e42a84e"
     },
     "xfce-kit": {
-        "next-4.16-release": "ff4cb8371053aa0353ca07e24f5de905e5f3f292"
+        "next-4.16-release": "c529484c2345fe89aee7a8d94c6a45e8c427a282"
     }
 }
