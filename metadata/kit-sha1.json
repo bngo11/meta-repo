@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "2ea046b83175df4bf78b3d9c9ae0b9cd0e6a2acb"
+        "next": "a6620566e8f6d2bf9adea4a98cb4d5633355be84"
     },
     "core-gl-kit": {
         "next": "d1e3a62650917a55b4108ef2111b3352ae7b454e"
@@ -9,25 +9,25 @@
         "next": "128abe2be1bedf1b12e7f712034c0e54b8dbcb3e"
     },
     "core-kit": {
-        "next": "9248432ffed6b908f4549d0c8c59096fca578335"
+        "next": "ce20e11564319aec685daaf31deb1519783e1798"
     },
     "core-server-kit": {
-        "next": "e29c5895a7b489f9bbe23fae1bf177a7da8b5272"
+        "next": "84844e19a4f3fbf541956a58c026bd45b1fa53c2"
     },
     "desktop-kit": {
-        "next": "902d000a04436a741ebb83333a97e09caf42c854"
+        "next": "02028a1a8b3b02228089365137d0640f6af86b01"
     },
     "dev-kit": {
-        "next": "7460e98df2217224d5dfd07d40650a84604f1270"
+        "next": "47c3126cb54223849d79cf98cca507edfde59474"
     },
     "editors-kit": {
-        "next": "8e6b79b55b2982a68a7e17f171b8e589d4e80db1"
+        "next": "ae2b275b525e05f6a31018e8cf784e7df8577bac"
     },
     "games-kit": {
         "next": "9a2c5c174b7e08dd9280e3aa9f5c8d6e6e11a3b0"
     },
     "gnome-kit": {
-        "44-prime": "4e822c1ae6aa42187eb8e8e2da2b494268921c43"
+        "44-prime": "657c34a33bf4892cd63ab88d80c9013410c042b6"
     },
     "haskell-kit": {
         "next": "5ebf038f91d7eacb07d35d9ae19e502449d7c5ae"
@@ -39,7 +39,7 @@
         "next/5.25-release": "df386377660bc4de8df87d355fcc80ff59985aba"
     },
     "lang-kit": {
-        "next": "74d9faccebc0ef70a71f43ca2564ddd08e573523"
+        "next": "20be082896649e68e0d048fdba3e813b32cfb3db"
     },
     "lisp-scheme-kit": {
         "next": "42b4b28619b400abfc3c0c874b345e47cabc28a3"
@@ -57,7 +57,7 @@
         "next": "da1dd071ab83f203ece71ec1697c58663327ef93"
     },
     "net-kit": {
-        "next": "0f3003e4d242794837e056ad0936736d2a29ae5b"
+        "next": "5dc5e8611054add116da9bdad82cdd45da657eef"
     },
     "perl-kit": {
         "next": "723a8e0e17cfc789f42d1dc4f0188f7af6551928"
@@ -66,19 +66,19 @@
         "next": "aeebfbf7dec9af7acb385d17726f3a471c340e06"
     },
     "python-modules-kit": {
-        "next": "a0845a853536b432ddba8150a5259febc63438b8"
+        "next": "bc13ed4aeac7d7df45132063577953abd9563f6a"
     },
     "qt-kit": {
-        "next-5.15.2-release": "8d3f453d592abd63648bc9f60e4c1641a46c2ed2"
+        "next-5.15.2-release": "8fda48b5a62cd612ac75bf64348fe99ea4996632"
     },
     "ruby-kit": {
         "next": "e334157a8811b24087c79ebe7705ed47aaa30654"
     },
     "science-kit": {
-        "next": "cac16a97167ebae2a0ad471729518d02604792d4"
+        "next": "464ceeb8c7c61d131e8a51bd606c85a4d591c392"
     },
     "security-kit": {
-        "next": "3d4dd9c5ded4c80943750e5520b9f9dd30c9a2e9"
+        "next": "3048c6a6b59bf54fa64864a8d067dd70472cbf11"
     },
     "text-kit": {
         "next": "1f57ec2e8b3d38090e15e5aa4f7fa9fb0451d4c3"
