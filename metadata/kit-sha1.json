@@ -9,10 +9,10 @@
         "next": "9a60e2fbb6c1bc7c2742fb7383b3a972bb4045fc"
     },
     "core-kit": {
-        "next": "e7b7a675706dea33b53e296ec7ae44e62f7c0002"
+        "next": "52d91293fb164d4a6cccbfebb53589b3a9e74c4e"
     },
     "core-server-kit": {
-        "next": "b232a2e7f9a7a75bf5a5d613d19308d7c93805d5"
+        "next": "5c65623b295e868ddd256ff70bd20298f6f08f78"
     },
     "desktop-kit": {
         "next": "ac83d48e067fb266aa0d66fb0a71daffe71dc26e"
@@ -21,7 +21,7 @@
         "next": "ff76561c1757049bc883192a7f60c984f5b9ef57"
     },
     "editors-kit": {
-        "next": "ce6957f4a5a5f22806e97aedcd29f9c623b2475c"
+        "next": "b6b83e6d7497ccbaceade0dcf0f47070cb5aa30c"
     },
     "games-kit": {
         "next": "fef814841c446fb07364ddf1459e85e84b88f32a"
@@ -54,7 +54,7 @@
         "next-1.24-prime": "daded8773780463c785a0e657a18cdc760f9f390"
     },
     "media-kit": {
-        "next": "62634956140e4564b92815f6a233dfcc99b9e81b"
+        "next": "8eeb5d2973db2ad283850aa007daa6d42839f958"
     },
     "ml-lang-kit": {
         "next": "da1dd071ab83f203ece71ec1697c58663327ef93"
