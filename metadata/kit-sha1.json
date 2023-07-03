@@ -27,7 +27,7 @@
         "next": "62bc8e6b8d91096c9612357a5cbd2d565fbf9ff6"
     },
     "gnome-kit": {
-        "44-prime": "c7b760b300ab2396051bbba0c5f47b6532580deb"
+        "44-prime": "e941aadb0febe3876ae8f491cdec2f6b22dca863"
     },
     "haskell-kit": {
         "next": "2180d6b7dd9e243c69b69a9faab2f9b238939d0e"
@@ -69,7 +69,7 @@
         "next": "7edaae398d97e2370ff69871fc7eb331054c6b14"
     },
     "python-modules-kit": {
-        "next": "45d1b981ed68f8f693b6b548c0f1b6d4c4d8062f"
+        "next": "e1caaa37e86ba18967f17c2e10823d16dbf65d2f"
     },
     "qt-kit": {
         "next-5.15.2-release": "fdddf5424634e4d1c55382a7d69fd15c9d6e6848"
@@ -84,7 +84,7 @@
         "next": "6bff32325ac39f1c0ceaca93b7fa8877189468cc"
     },
     "text-kit": {
-        "next": "80c0bced78f89ab44a7da9a2ea7fef05289364db"
+        "next": "ff9c39d728f9c114506607be17d7377d5e3cfa28"
     },
     "xfce-kit": {
         "next-4.16-release": "a65dde65661e5c161b93704685f3a6a8497fe145"
