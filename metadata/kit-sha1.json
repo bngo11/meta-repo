@@ -27,7 +27,7 @@
         "next": "fc1493a97c678e663fd977e592a34b6f264a55ec"
     },
     "gnome-kit": {
-        "45-prime": "946032fde2e59d48fb68193c2a98535302eb3e7e"
+        "45-prime": "abb0a65f2bcc653890abafe95c3fa9d9cf5e3948"
     },
     "haskell-kit": {
         "next": "2180d6b7dd9e243c69b69a9faab2f9b238939d0e"
@@ -69,7 +69,7 @@
         "next": "3f2709fa61ec014b4ddc4e11520dd63087b03f35"
     },
     "python-modules-kit": {
-        "next": "73ab40e0d562c29fcdace8481e23af94c7a732ec"
+        "next": "33faf7a8d3cb5052a70c675e745fae49fd281fb7"
     },
     "qt-kit": {
         "next-5.15.2-release": "0199f1f2c115b9eb9248cd3891da34936ca0dad1"
