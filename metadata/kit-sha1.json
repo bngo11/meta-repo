@@ -6,19 +6,19 @@
         "next": "71860b20c4e3e48cf559e5738c87e697b7e4d24f"
     },
     "core-hw-kit": {
-        "next": "35dea84a93c192fbc338c6b0dd0ab92685e1897a"
+        "next": "d5969a09a7837433e0cf70ed587a888a9cadb78b"
     },
     "core-kit": {
-        "next": "5acd939f17a2647a87cd769c9e44ffac2e9910bb"
+        "next": "f905ffb8f60c8071b79a267f66075e168d32a431"
     },
     "core-server-kit": {
-        "next": "dce6fe84db4784a72cde6c8a0aadd56f754bc4df"
+        "next": "672e785a9786708061b72cf913582a8c73b0eb32"
     },
     "desktop-kit": {
         "next": "e07b3fa44feb782e738202e3ac0e61950544956b"
     },
     "dev-kit": {
-        "next": "070ebc426896ec38a368ffd0ac39847a34a3bec9"
+        "next": "cffd8840c103867e6556394116e11298ca26f8ad"
     },
     "editors-kit": {
         "next": "d2b2a859073b9cdbb1c03a62af7adb3847436e12"
@@ -27,7 +27,7 @@
         "next": "fc1493a97c678e663fd977e592a34b6f264a55ec"
     },
     "gnome-kit": {
-        "45-prime": "1068feb417bfc6801daba7e4d37c379f3e53cce5"
+        "45-prime": "946032fde2e59d48fb68193c2a98535302eb3e7e"
     },
     "haskell-kit": {
         "next": "2180d6b7dd9e243c69b69a9faab2f9b238939d0e"
@@ -42,7 +42,7 @@
         "next/5.25-release": "22bd3e3c33f3c435562285ce0a1a2e717ad2cd70"
     },
     "lang-kit": {
-        "next": "9dc35a5faea4c8f6eb6b61ece96cc2628ff8f0ce"
+        "next": "bbabd23ecaa5e4d450e332d4d4ef51624d2c87e9"
     },
     "lisp-scheme-kit": {
         "next": "a469e8d1964cdfdf1e13f180b0559d311b95a758"
@@ -54,13 +54,13 @@
         "next-1.24-prime": "daded8773780463c785a0e657a18cdc760f9f390"
     },
     "media-kit": {
-        "next": "056773abc80621040ae6d39dc3acdfeae8a92189"
+        "next": "e6f784893ef4cf37cdcce41ac65691f3e834655e"
     },
     "ml-lang-kit": {
         "next": "6b18e743f8d0a9676ad54927b96a836fcf9fee04"
     },
     "net-kit": {
-        "next": "e6253e4ac89f9ad84056d565a94e1361f90442b5"
+        "next": "e9bf8de5dc57b93ab5f36cce8dd49bdf965a7a7b"
     },
     "perl-kit": {
         "next": "0eb0fa0ba816391e9daf42e4463f2aa07e33b15f"
