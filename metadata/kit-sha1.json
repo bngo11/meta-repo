@@ -18,7 +18,7 @@
         "next": "49260c97163d58a2d961a5f699f58730fb5f291a"
     },
     "dev-kit": {
-        "next": "c91988bb0b213966bd912ac92a351eef4ac5b8fa"
+        "next": "7f49c3955a89f6cf186a72221f932befd3f49e04"
     },
     "editors-kit": {
         "next": "eae4163aa1727aa5bfb96ada60d06ad808e23b32"
@@ -27,7 +27,7 @@
         "next": "86ad76a323bff4460f9d953c080721156fd43a5d"
     },
     "gnome-kit": {
-        "45-prime": "c953d5132d9081a87c4ce1cdaae30f2f6d379894"
+        "45-prime": "476fa9b4b619143ad14c4cbf541d7c996c4445d8"
     },
     "haskell-kit": {
         "next": "2180d6b7dd9e243c69b69a9faab2f9b238939d0e"
