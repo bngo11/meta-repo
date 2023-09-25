@@ -18,7 +18,7 @@
         "next": "49260c97163d58a2d961a5f699f58730fb5f291a"
     },
     "dev-kit": {
-        "next": "0df3b46df10de3e03ffc4f615e4f8f815fe2f1e3"
+        "next": "c91988bb0b213966bd912ac92a351eef4ac5b8fa"
     },
     "editors-kit": {
         "next": "eae4163aa1727aa5bfb96ada60d06ad808e23b32"
@@ -27,7 +27,7 @@
         "next": "86ad76a323bff4460f9d953c080721156fd43a5d"
     },
     "gnome-kit": {
-        "45-prime": "f69eddb658f5d2b1243da1908ff9c7920c431c71"
+        "45-prime": "c953d5132d9081a87c4ce1cdaae30f2f6d379894"
     },
     "haskell-kit": {
         "next": "2180d6b7dd9e243c69b69a9faab2f9b238939d0e"
@@ -42,7 +42,7 @@
         "next/5.25-release": "22bd3e3c33f3c435562285ce0a1a2e717ad2cd70"
     },
     "lang-kit": {
-        "next": "477fc345bcc11225252bec84fd73a42e3a855cd8"
+        "next": "ec2c6c412ee3350c9989ed7e2f7b7a3dcdf4a9a7"
     },
     "lisp-scheme-kit": {
         "next": "a469e8d1964cdfdf1e13f180b0559d311b95a758"
