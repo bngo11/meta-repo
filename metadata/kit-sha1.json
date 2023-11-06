@@ -9,16 +9,16 @@
         "next": "cf3a3735696acfed05f0f30611ac776593699fb9"
     },
     "core-kit": {
-        "next": "b9404467f2cd12512b7012e62f8bfdc2b90903f1"
+        "next": "10ae6440af08791434a210fd077c1cb1e8bc15b7"
     },
     "core-server-kit": {
         "next": "476744d856c00a20783c189ce7761de5ee5c1497"
     },
     "desktop-kit": {
-        "next": "79bcca826d2a1ce2d2275557321887d765190fe0"
+        "next": "fcd064f9e415a0255efbe84b7ac60e1378ac35f8"
     },
     "dev-kit": {
-        "next": "ec4114f5b4f67d715c48e8d5849ff64ebb0639f0"
+        "next": "27a36068e78f174304a4b517d20f8324356f1ad0"
     },
     "editors-kit": {
         "next": "1bfdf806171d0a1082ed20d79feb7126d81e8a0e"
@@ -27,7 +27,7 @@
         "next": "3bfadf164dd6c265d2a741fc78996f5772dc3f0d"
     },
     "gnome-kit": {
-        "45-prime": "e4b2ae3154c158889e3692ad38ecc0b0f66112b8"
+        "45-prime": "3c09184be667f2ecb13932a34db1b0a37e7dca70"
     },
     "haskell-kit": {
         "next": "2180d6b7dd9e243c69b69a9faab2f9b238939d0e"
@@ -55,7 +55,7 @@
         "next/1.26-prime": "7a659e833d31a8bd2167b16916dfc809b4dc77a1"
     },
     "media-kit": {
-        "next": "991df7a808ba3e05f1d1c5a2857b8120642cfcff"
+        "next": "09e3bc6fc9a62cc7f204cc08795db12b3d5ca887"
     },
     "ml-lang-kit": {
         "next": "6b18e743f8d0a9676ad54927b96a836fcf9fee04"
@@ -82,7 +82,7 @@
         "next": "66eb2a0e6d50b4360895ab4f46add4815a7194f8"
     },
     "security-kit": {
-        "next": "3bcd331be00f8ea4f9ab069241b7a90b415a046c"
+        "next": "b72f5d6563868b1b1f129bbbc8150cc9368c0785"
     },
     "text-kit": {
         "next": "2082426ed6a4a8f09fc16df36fbf049793b07f6b"
