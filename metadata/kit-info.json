@@ -179,7 +179,7 @@
         },
         "qt-kit": {
             "stability": {
-                "next-5.15.2-release": "prime"
+                "next-5.15.0-release": "prime"
             },
             "type": "auto"
         },
@@ -289,7 +289,7 @@
             "next"
         ],
         "qt-kit": [
-            "next-5.15.2-release"
+            "next-5.15.0-release"
         ],
         "ruby-kit": [
             "next"
