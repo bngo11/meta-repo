@@ -9,7 +9,7 @@
         "next": "5981f6122e1317ebfe2f9f1e701e3d2984dd042e"
     },
     "core-kit": {
-        "next": "137717973853c498ead0fc70d14c6e9be5a57598"
+        "next": "b9ad068ec34dedebd916a86ef293ac60a8fee0c0"
     },
     "core-server-kit": {
         "next": "a1f39ad0cc82e280a3caaac0b54172046b0a6fc9"
@@ -27,7 +27,7 @@
         "next": "cfe2437c679c784007ad288c71a3b295c60d5907"
     },
     "gnome-kit": {
-        "45-prime": "f7c586e844e2f0d0737c42d0ec45889a116faffa"
+        "45-prime": "bd74c1db0cac655c8e912d642e9857ce287ed4fd"
     },
     "haskell-kit": {
         "next": "e9412cedda4d081e40721477e2bb7110473a3c4d"
@@ -70,7 +70,7 @@
         "next": "049e1d7bce2ebd3203c44b32e071d05012541732"
     },
     "python-modules-kit": {
-        "next": "4495ac1c1a9f1ce8dff37e45417cec21538ed15b"
+        "next": "c95c918b9fd3604a3b620424078c142dc91b142f"
     },
     "qt-kit": {
         "next-5.15.2-release": "761fe4ad0240365dc06cb8d8cdffb97f391501e0"
