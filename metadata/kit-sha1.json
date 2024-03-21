@@ -1,24 +1,24 @@
 {
     "browser-kit": {
-        "next": "43a4b98c6555123818108e7104d767e5fbfaf423"
+        "next": "59a8d604d802382f542aba393341f8226e66adbd"
     },
     "core-gl-kit": {
-        "next": "3549a22a85768622a50896eea1e7f625141918c1"
+        "next": "b4513c7459e8ad3be0db87856737f3649a30e5d8"
     },
     "core-hw-kit": {
         "next": "c6a742a9665296fc44d44356655137f624ac5829"
     },
     "core-kit": {
-        "next": "ea28f27498dd0464756f0b66d49926c10c8e352a"
+        "next": "43a44cda6e88caff5f71c89494d2135c021d5b5f"
     },
     "core-server-kit": {
-        "next": "3c337ba60ed694799d931499814ee10ea8723202"
+        "next": "693445ff31992d1915854c46abd96b7d37adc88d"
     },
     "desktop-kit": {
-        "next": "fc1b86936715f701786c32aa3e8febe1f668ed08"
+        "next": "9c35672e44f4cb9ab0005f10c60e397c35307666"
     },
     "dev-kit": {
-        "next": "728391634abc7d46898017caccd1932565a88f2e"
+        "next": "45e13d33f355b2297137723706149d20f7ab1e7e"
     },
     "editors-kit": {
         "next": "ee971b64df994bd665800a3d691ebc848841bc2c"
@@ -27,7 +27,7 @@
         "next": "19317749c0e08525f4457760a028d07dffb1e546"
     },
     "gnome-kit": {
-        "45-prime": "fef21a4df6eac1b94cf9867c7caf09efca99a49d"
+        "45-prime": "98caff7c84b6ddd505c74ea5ff24e0cbb6bb032c"
     },
     "haskell-kit": {
         "next": "a9bd512c349e638cdf14d09f25c840f69e0f1091"
@@ -60,7 +60,7 @@
         "next": "8e2004add84753030c803cd277d0d5274e66988c"
     },
     "net-kit": {
-        "next": "aafa0a939159a2803cd4552a48b6d020daf864ea"
+        "next": "a0ed2ca070836ed40446892dd2480d9a906082f9"
     },
     "perl-kit": {
         "next": "aa5670333c961c0e65e99f32527013b30acc7729"
@@ -69,7 +69,7 @@
         "next": "859a2b65138e43be1eb72c7fa636406d61ca2349"
     },
     "python-modules-kit": {
-        "next": "67d8ffbc98f559895ef296e4dd65fdb833c7f4e2"
+        "next": "dd25f128e1b97158d0fcd85ffffa0e21eaae7e27"
     },
     "qt-kit": {
         "next-5.15.2-release": "a7b1f1798d9bde9b8108dd6d39fb8f20c696a479"
