@@ -69,7 +69,7 @@
         "next": "859a2b65138e43be1eb72c7fa636406d61ca2349"
     },
     "python-modules-kit": {
-        "next": "153c4bcd1248fe84dca173ac5393d7e9dedd6171"
+        "next": "36501e36f788ea2d76c833db44cc5ad8a7046f46"
     },
     "qt-kit": {
         "next-5.15.2-release": "26e66542b04cd58815fa27b13e49ba056ed425aa"
@@ -84,7 +84,7 @@
         "next": "6a97ddfb1c4bb12442ebf3d9c47e16f96a258a66"
     },
     "text-kit": {
-        "next": "4b3b46e4999e4e539c13d7b22c68bb6f32cf3701"
+        "next": "58d33ba923310eaa7501ec3587ff92503b81118e"
     },
     "xfce-kit": {
         "next-4.16-release": "186ced21051b9399e6a73e706f065741c33cee61"
