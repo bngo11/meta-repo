@@ -6,25 +6,25 @@
         "next": "ec9cb84b72f04b0e62f667b2557849aedd97d745"
     },
     "core-hw-kit": {
-        "next": "e9a0b2869ee10223373da1a9af4c5cd04abeb4ca"
+        "next": "9acd958c20288ba31d49dea03786ae1c3dd09d33"
     },
     "core-kit": {
-        "next": "30fa33674971737836a2004fbff1c83738213f42"
+        "next": "1a1fb6a916f3923ac2cb1a7254f4d9947dd6b0b5"
     },
     "core-server-kit": {
-        "next": "117404df8433733d551acc84315d81a846ec5717"
+        "next": "88bdc101be37eb4142c1285f5639357c8551e21a"
     },
     "desktop-kit": {
-        "next": "bd601d996b9e11ce73d5c4359424cff13a6885da"
+        "next": "9d8c0f230b7eaeaed7804bd0c95a063696d3d785"
     },
     "dev-kit": {
-        "next": "74457cfc23a194dbef29985453858ef23b5ccfdb"
+        "next": "ceb3bf89ab938a1177e5c6c877ae98889669c586"
     },
     "editors-kit": {
         "next": "9d74b67478e2e293ff39ff6aec36e5f6cdd484dd"
     },
     "games-kit": {
-        "next": "cbec71c779f88bc276cbe9df15dc8647b18c2f0d"
+        "next": "8111065c5bdb2eda9d34a1641bec958784e465b4"
     },
     "gnome-kit": {
         "46-prime": "a1d121a951733949a5d625106cf706f1b1e8fec6"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "91010362b2196facbd71f8a667059a2e9b05f339"
     },
     "media-kit": {
-        "next": "80c463faa8bcdf3e445a982d8ebf0ef0d49bd623"
+        "next": "3bb605ee24f9b5538311a5958e0b8bd31294908b"
     },
     "ml-lang-kit": {
         "next": "8e2004add84753030c803cd277d0d5274e66988c"
     },
     "net-kit": {
-        "next": "4aedff383aab6a9c9aae0c07206e35a00a7e0477"
+        "next": "0ccb40dba83ca6efcaf8ba7895de8673f4194e3c"
     },
     "perl-kit": {
         "next": "aa5670333c961c0e65e99f32527013b30acc7729"
@@ -69,7 +69,7 @@
         "next": "e4ce0e005fa7a08f093b6535d2a50c73e1623c70"
     },
     "python-modules-kit": {
-        "next": "462ea01bdfacb8c9750ff5ec024cefbfdea673bb"
+        "next": "1667dfd93b0f9da96f2bd59488c4165ea286686d"
     },
     "qt-kit": {
         "next-5.15.2-release": "afc427b135110012cee0649a6544d57209d4f003"
