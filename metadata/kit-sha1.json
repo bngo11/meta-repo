@@ -12,7 +12,7 @@
         "next": "cded01cb5abb9dea16f70afc8e3436901691c911"
     },
     "core-server-kit": {
-        "next": "82e8cba851e00833c29ed0230c15548d25e6e41c"
+        "next": "ad53443e029cdc5620209cae0267a07dec089851"
     },
     "desktop-kit": {
         "next": "9d8c0f230b7eaeaed7804bd0c95a063696d3d785"
@@ -27,7 +27,7 @@
         "next": "8111065c5bdb2eda9d34a1641bec958784e465b4"
     },
     "gnome-kit": {
-        "46-prime": "423e0e81ef32eb1aff99bc067bf6260d9b407a86"
+        "46-prime": "36bea33c1d330ff809f90cf3040b7acb80bde4f5"
     },
     "haskell-kit": {
         "next": "a9bd512c349e638cdf14d09f25c840f69e0f1091"
