@@ -3,13 +3,13 @@
         "next": "6592ed55714a6c6aa9a38caaea1348e95a8fc829"
     },
     "core-gl-kit": {
-        "next": "dc4b41f20647f060a409b2c8ea725503be9e4800"
+        "next": "fc157e537efaf3346417d20f1a2e8529d1f55d71"
     },
     "core-hw-kit": {
         "next": "8645bcd30815c96d343aeca788b2a0703c2f53c4"
     },
     "core-kit": {
-        "next": "732a03de87379a93ce548e70755f779cabef6958"
+        "next": "47ea1d49d3d235ceb63701df93d0c77ef263bb78"
     },
     "core-server-kit": {
         "next": "c22a41fae9d9fe36bfb9fbacf0e68533e175b45c"
@@ -18,10 +18,10 @@
         "next": "a63e8d7cb431af486a02f26d3823a63277450875"
     },
     "dev-kit": {
-        "next": "5570825c017cc7961c27968ce76d4b1a9b5bd94c"
+        "next": "cbffecc77a471988d42e20beac7cef704438c0ef"
     },
     "editors-kit": {
-        "next": "09914923dfdd69a84383898272ab3d7135db16d0"
+        "next": "3ea1116fd081d5a3bc9df693540e58e5b8ce50c2"
     },
     "games-kit": {
         "next": "23995c69f962603031293a82562428249ea57d5e"
@@ -60,7 +60,7 @@
         "next": "8e2004add84753030c803cd277d0d5274e66988c"
     },
     "net-kit": {
-        "next": "5c17d1a56666eb0feaef20a7afcea8f1e0fec938"
+        "next": "688e078e394afaf7183e1330396951c2171568d4"
     },
     "perl-kit": {
         "next": "3ed6341d6f1be43b7d233140f187b1b33125b4ac"
@@ -69,13 +69,13 @@
         "next": "1e1cf4f70084957f1068907559d789de3df76408"
     },
     "python-modules-kit": {
-        "next": "e43f6e959782e191255c09c983390ec09109dfbc"
+        "next": "5b152cd5bee2e20c04c6af20acc03c2ff850ba59"
     },
     "qt-kit": {
         "next-5.15.2-release": "6301171d6304831793471b221292179b2121c394"
     },
     "ruby-kit": {
-        "next": "4056587f98bc99b0b7537af0b2041bae3ddc8f46"
+        "next": "1646d42fa431f814d88c8beab71dba8095aab93e"
     },
     "science-kit": {
         "next": "369ef85d51ad6539ad391ec8d2a9d3d460f5df99"
