@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "82340ee746d806536a456b1578ea125da5ab2afc"
+        "next": "6cdf147b9ce47183799d793c31515aee5d748e21"
     },
     "core-gl-kit": {
         "next": "3a140ea7f0f7ccb0bb0d927a4903864f6aa5414b"
@@ -9,19 +9,19 @@
         "next": "e13666503d5b99ff058cad6b041f20c44f2e3cad"
     },
     "core-kit": {
-        "next": "ca48496aa60d6bdcf89abb9d5df73eeddc295aa4"
+        "next": "73c10b665663e77184950ce3bf8ffbd309b32934"
     },
     "core-server-kit": {
-        "next": "17dcf980add6a425e956d3545dd02450d490aae8"
+        "next": "e0311f52491da2e1982cc1699617708e4359dd7a"
     },
     "desktop-kit": {
         "next": "a63e8d7cb431af486a02f26d3823a63277450875"
     },
     "dev-kit": {
-        "next": "c49542421d89e07bdd2a36217a2494c10ef9544c"
+        "next": "58b1fca2710e7258d7cb8415e283feac9c72cfc3"
     },
     "editors-kit": {
-        "next": "04105db8d7d6ece67685ba6bc0048d3ee54fd1fd"
+        "next": "f214bde10714e8e9d45c70725c0b354866680b24"
     },
     "games-kit": {
         "next": "23995c69f962603031293a82562428249ea57d5e"
@@ -42,7 +42,7 @@
         "next/5.27-release": "c3c977efb4822e001b3fb0de3aac1b0e23ae8d83"
     },
     "lang-kit": {
-        "next": "95a5c7d0b472ffa6fa0f008034f2994ff5a641fb"
+        "next": "3457dd515f2acb5ba6d3a9dad8f0811e7d05bf52"
     },
     "lisp-scheme-kit": {
         "next": "6063053b54a6ed36f7911632a7ca8de8e64ef69c"
@@ -60,7 +60,7 @@
         "next": "8e2004add84753030c803cd277d0d5274e66988c"
     },
     "net-kit": {
-        "next": "b488c595ac8e64ac52d45509d9a1d375b6c167d9"
+        "next": "1f3f7a6e7d63daf71155f5d2ae162d543a5b987f"
     },
     "perl-kit": {
         "next": "3ed6341d6f1be43b7d233140f187b1b33125b4ac"
@@ -69,7 +69,7 @@
         "next": "1e1cf4f70084957f1068907559d789de3df76408"
     },
     "python-modules-kit": {
-        "next": "cc79c3d9f560666751692bccb1fe8d32da8a8c1e"
+        "next": "26409a7b0b8bf87967fa3627af929f4e74c9327a"
     },
     "qt-kit": {
         "next-5.15.2-release": "6301171d6304831793471b221292179b2121c394"
@@ -81,7 +81,7 @@
         "next": "369ef85d51ad6539ad391ec8d2a9d3d460f5df99"
     },
     "security-kit": {
-        "next": "4f97544c2d1ed2e324ec3384fd044e85ac2c9a2e"
+        "next": "dd466c4bf66235580b60f02212f642539f00048e"
     },
     "text-kit": {
         "next": "da091e53e458cd98fda8454a82f73be8ad6f1083"
