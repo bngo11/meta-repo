@@ -9,7 +9,7 @@
         "next": "a96ed9993e28b6299a26276fc72b7b437c005c0c"
     },
     "core-kit": {
-        "next": "641cd0e26a510743797f31113512737d6c19dd33"
+        "next": "ab33a32de12dffc06c7fdc8f1d658794b173064f"
     },
     "core-server-kit": {
         "next": "7716ffd6abfe1db9e845181db336dc99b25afe27"
@@ -27,7 +27,7 @@
         "next": "ad04a3510942e341b49ef02e5b5f18c8c7bd2cd3"
     },
     "gnome-kit": {
-        "46-prime": "81450aaf372193ea8c33038c0c51ddd4b9f25431"
+        "46-prime": "69cadd1fab189e9026a06e3c62dc7c9a60dd766c"
     },
     "haskell-kit": {
         "next": "a9bd512c349e638cdf14d09f25c840f69e0f1091"
@@ -84,7 +84,7 @@
         "next": "8369677154745559bf2679dc8affd5be92f9897b"
     },
     "text-kit": {
-        "next": "68325a9d01092d80a2a2d696cf89de6fdcc7c699"
+        "next": "cc953fdfaf3fe8315066e5aa19e98193ac0336b4"
     },
     "xfce-kit": {
         "next-4.16-release": "01d37f0c7f904f2a9f9ecbec9d13f273f7741587"
