@@ -3,7 +3,7 @@
         "next": "11c8d40fe522f785b3ab9c9c825c1682a9a3d2bc"
     },
     "core-gl-kit": {
-        "next": "ab136ab39b3b2e644c863649a2ab9c72b8957b61"
+        "next": "ab5d635fca9801f04025367c17c7aafb00c7f3b4"
     },
     "core-hw-kit": {
         "next": "20157fba66e8c831f72c758964a24331b2d48926"
@@ -69,7 +69,7 @@
         "next": "75082f1479ca1b2d1ebbe2740a319fc5f679c831"
     },
     "python-modules-kit": {
-        "next": "182e03c25092dfa2240eb317b2a429887a70db27"
+        "next": "48c8f9e8af4151c3f0a818f4a937554f3537451d"
     },
     "qt-kit": {
         "next-5.15.2-release": "ad0a660d21fd6ccdcfaadf4618a9e6843f1f40ea"
