@@ -27,7 +27,7 @@
         "next": "e2c70f183815588dc3f9f59878cbc81a5c7fa519"
     },
     "gnome-kit": {
-        "47-prime": "4e002e6ede14e97a55bf170b54a75ea88996b6bd"
+        "47-prime": "cf6f8d35fd9e9815d26c1dcd82d3c887712072a6"
     },
     "haskell-kit": {
         "next": "a9bd512c349e638cdf14d09f25c840f69e0f1091"
@@ -60,7 +60,7 @@
         "next": "8e2004add84753030c803cd277d0d5274e66988c"
     },
     "net-kit": {
-        "next": "8b2550262db1de0e00679e98e7fad77f3a22de45"
+        "next": "1546bc8492df6568e6519d80a47bbbde7a90b05f"
     },
     "perl-kit": {
         "next": "3ed6341d6f1be43b7d233140f187b1b33125b4ac"
