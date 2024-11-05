@@ -12,7 +12,7 @@
         "next": "7f852464ca49a236919260e3abfd237f95a105e2"
     },
     "core-server-kit": {
-        "next": "dce0160987ce3672b1263758557a8838e46deb86"
+        "next": "6d672c9f522ae5e98956b10176e2cd0b657a0afd"
     },
     "desktop-kit": {
         "next": "8dc89cd58a73c17aea07352f029a79a5c8c26307"
@@ -54,7 +54,7 @@
         "next/1.26-prime": "f34e0e5108f0c0c4acd85f82b246097db3a622a6"
     },
     "media-kit": {
-        "next": "03d519b1cfb10520d15f9399d7a44181d96ee734"
+        "next": "2518eb3d57c1301f859fdff99d181ff48ae0665c"
     },
     "ml-lang-kit": {
         "next": "8e2004add84753030c803cd277d0d5274e66988c"
