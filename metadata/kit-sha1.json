@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "next": "d01c2b5ba033b876df88e65b08c79e5baef55014"
+        "next": "16d56803a75598935a719f0305542ee8730b7f4c"
     },
     "core-gl-kit": {
-        "next": "19dd8155ab1655ab06e92e2c55bb3a2c96795b1c"
+        "next": "6e236cf368de0345a555c85dcac9995bb44736c1"
     },
     "core-hw-kit": {
         "next": "df0a6f11f41d7660f6a64c28499e1b3516eee74f"
@@ -12,13 +12,13 @@
         "next": "6055e71c83eabf3791bdbf1eacf38ef3f2826748"
     },
     "core-server-kit": {
-        "next": "9c329f30c13954dbf67b9f8af3f7ca7951746df9"
+        "next": "03f66fec2a2516aabc60e2ccc0a0ec2f198f83d2"
     },
     "desktop-kit": {
         "next": "f951572e6ba65e9c615691396957be391cbea158"
     },
     "dev-kit": {
-        "next": "ae682a153fd67aca6bd054873f54c13b059332ca"
+        "next": "76aa448be5bf00537c980f902d034c2ef5867ee1"
     },
     "editors-kit": {
         "next": "f3751b46a9ca25b6aaf96620ba84de50bcd7c12a"
@@ -60,7 +60,7 @@
         "next": "a5cf3f5a27c962c462bbb48d805cebf698f00b94"
     },
     "net-kit": {
-        "next": "3fff094d99f0b5a1e0315a86960ddefda024bb66"
+        "next": "0bedf00c918fd9b27eb27bfee51836897309649a"
     },
     "perl-kit": {
         "next": "5bb96d736a86d2a6679560d323ba0d5c28deb6e6"
@@ -69,19 +69,19 @@
         "next": "3e69df29611c510c7c0e8e55c47723b867fbca73"
     },
     "python-modules-kit": {
-        "next": "15ad89c3f7077364a7eaa8b2606b241ae88e5cec"
+        "next": "2afa2997e297b7e545e2e054d4433f56cd6a22fb"
     },
     "qt-kit": {
         "next-5.15.2-release": "394f0b961750e2cf14fe0594fe13165ca06098cd"
     },
     "ruby-kit": {
-        "next": "2346d79581f7bdf82b736eb8c95c275a032b614c"
+        "next": "ea75c59b09607f72c23b2f061fc575cbaa6615b5"
     },
     "science-kit": {
         "next": "075a7723ab788c9d764b888f192d51405659b6d5"
     },
     "security-kit": {
-        "next": "e462feba7ac99cf0136121be3e234a9e97763219"
+        "next": "3aa8df7e97bd7aea8a2a47234ed87998d4ca1142"
     },
     "text-kit": {
         "next": "3ad14194636fdb0ff93f2ed75becc28966529a50"
