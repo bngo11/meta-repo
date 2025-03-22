@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "ab2fae40a3a0cc7078a4d326ca13886fca26d293"
+        "next": "6b9401205ef6b00963f05c6726db2537d6e6ff8e"
     },
     "core-gl-kit": {
         "next": "3cf6e4e1a6326ddb54f0fa7bdf642cc0cda685b8"
@@ -9,16 +9,16 @@
         "next": "1f424758ca47da8d4f1b8d6f66bd4d636d9fda27"
     },
     "core-kit": {
-        "next": "53d9123275224927b504bcfa0ef052783fab7fd4"
+        "next": "574487f865b0551804b4d6adb005a6c119b5dc48"
     },
     "core-server-kit": {
-        "next": "f0468e8016b7ca9d9445a66818b22e898049e86a"
+        "next": "80f04cd8f91e88d4a549f18a911014232e3c76ed"
     },
     "desktop-kit": {
-        "next": "149c39e2f8688c2d04bdc6a3697ed7568a6d2a3c"
+        "next": "e85ad7dc4d4a21890777f9e3b450dc956522c9d1"
     },
     "dev-kit": {
-        "next": "3ffb3cfef74db9d4b9dd76bcfc77d28550a0ce19"
+        "next": "fc3dd977f5530c7916204797966d19d2819bca49"
     },
     "editors-kit": {
         "next": "90c0c80b6bd49dd1b873a560cd580323bf94f0b8"
@@ -27,7 +27,7 @@
         "next": "cc7e7328812278538a0bcd227a43c46426d2a6dc"
     },
     "gnome-kit": {
-        "48-prime": "3f48e5b24384f3f8b6c629f4a024261e81c6f34f"
+        "48-prime": "a489f6a9af3f5bed24345d0899f2b5aca47d3eba"
     },
     "haskell-kit": {
         "next": "ce4312812ff2952fc99c83a3bb36755d604572f7"
@@ -60,7 +60,7 @@
         "next": "a5cf3f5a27c962c462bbb48d805cebf698f00b94"
     },
     "net-kit": {
-        "next": "3b620452f8f2e556cdadb310326781371ee37cbb"
+        "next": "d4d4c8e6b7d285194b0389b1e6cc6c3fdaf6b5ef"
     },
     "perl-kit": {
         "next": "5bb96d736a86d2a6679560d323ba0d5c28deb6e6"
@@ -69,7 +69,7 @@
         "next": "73d7318b2852e3d3a44cb31508a743fb5d3321c2"
     },
     "python-modules-kit": {
-        "next": "ad3ff7439676b20a22db7b7df0706962b39d9f0a"
+        "next": "a1d2e531d60994e8ee5bc9bac1352241cbd84714"
     },
     "qt-kit": {
         "next-5.15.2-release": "a1e80bd4020477b8f75fa0b13ad19f2319164da4"
