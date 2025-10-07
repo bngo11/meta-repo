@@ -3,7 +3,7 @@
         "next": "07cbbf062dcb2464d185ddc076f5cc29c4b990d8"
     },
     "core-gl-kit": {
-        "next": "1764c44c79043cc1c25f0fe801e876fd1ebf4c3c"
+        "next": "ec3419d0edf9f21666a21ee38b0bd1438a39921e"
     },
     "core-hw-kit": {
         "next": "f2c003179a7d4e7876926e0409df5ea20c08b530"
@@ -12,19 +12,19 @@
         "next": "92798eb2bea1507e2a94de1942d65a4cba25bff5"
     },
     "core-server-kit": {
-        "next": "2bf63507c35eebe8165523385d87ad2e4de2488d"
+        "next": "f344019fff8df9dd2aa9b5d43aa8526de8c4d487"
     },
     "desktop-kit": {
         "next": "382d41ed63abb5adb594cb2b081ece040910803e"
     },
     "dev-kit": {
-        "next": "2eed23712a5fadf141942e7ee76077421ade1d65"
+        "next": "8482470e3b7bb91a463c10f020a4998ab64b8e37"
     },
     "editors-kit": {
         "next": "fb66ec85d41a7198fbbf73ef5b41f46376221235"
     },
     "games-kit": {
-        "next": "b42ad272014c1cdaa1d6f06d5006410839a96c2a"
+        "next": "5a8b992093e3b21c2cb624018569526181bda3f1"
     },
     "gnome-kit": {
         "48-prime": "9dec7cb56eaef2487d62c116d474106c9277c37f"
@@ -60,7 +60,7 @@
         "next": "95bf068132f58a209a1d14af774facd7a5fc0386"
     },
     "net-kit": {
-        "next": "b610ba938f1a90a26c1bbb0a36a245b97b3f3531"
+        "next": "0fae80b12a4e8572ff23dec9098c25b288aeaa06"
     },
     "perl-kit": {
         "next": "1e7cb32c39a5b7c24803a550e7a52b3c900508aa"
@@ -69,7 +69,7 @@
         "next": "a0c7abb5535e60381b35896427bf97b57cde5be9"
     },
     "python-modules-kit": {
-        "next": "b022a0b3f48aefaa519f12d10cc7b32053b76a47"
+        "next": "6cc2eb7ea2fa8c1bf3539ebe449e4bcbcdb62089"
     },
     "qt-kit": {
         "next-5.15.2-release": "a6f883f94be091a8a386a1a7af021f714e4889db"
