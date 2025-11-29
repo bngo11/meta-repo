@@ -9,25 +9,25 @@
         "next": "f9174535acc8320b815d06a02457712c1c73a43d"
     },
     "core-kit": {
-        "next": "a27bf48188c7a9d7a2008bc1c8829abc137fee09"
+        "next": "210bfd6aafba2480b5f7a2171e2de686f6d246e9"
     },
     "core-server-kit": {
-        "next": "eafe9987c3f6cf53c22b8bc4f9b02bdd37ece649"
+        "next": "0b22175574b10e13312880c85e627ffbe784e91e"
     },
     "desktop-kit": {
-        "next": "20fc94474fead89197a290b9f4e2dfc92580cf4b"
+        "next": "f147406bdff32b7df6d898380eaf48f2c1fce816"
     },
     "dev-kit": {
-        "next": "d0165e7127b02bd65e3fd52062e6b0af6efb3061"
+        "next": "b3c62d2f4ba5402f153499b9ad02818ec3b39fd1"
     },
     "editors-kit": {
         "next": "a5029800005f0fb881ad1f7d2e592ba84701de7e"
     },
     "games-kit": {
-        "next": "1b70694dd9e5ab66247364dd3c83016ed577d5fa"
+        "next": "730e1f055d64bacd88a027ca73da5b15af370d28"
     },
     "gnome-kit": {
-        "49-prime": "e936f85dbbe9ae530a2e1803165665b9ab85992c"
+        "49-prime": "c4e7e970247f15e229d109f304eda8f49bb747ad"
     },
     "haskell-kit": {
         "next": "c8bad2c916aa36c4fd749b2d546b1854843d49f6"
@@ -60,7 +60,7 @@
         "next": "95bf068132f58a209a1d14af774facd7a5fc0386"
     },
     "net-kit": {
-        "next": "e21d470c77357525c9a602b4aa8bf84926a992d8"
+        "next": "8b85166328bbb2416b462d3039d2d258674d17c6"
     },
     "perl-kit": {
         "next": "1e7cb32c39a5b7c24803a550e7a52b3c900508aa"
@@ -69,13 +69,13 @@
         "next": "a1eefb9736a7be38584905579d0f6cdf3eb3e81f"
     },
     "python-modules-kit": {
-        "next": "334210984e4d6108d710ec69dd39922e1edcdb19"
+        "next": "39dbc2829bc885f2e13fe1261bda2447e80448e2"
     },
     "qt-kit": {
         "next-5.15.2-release": "874d6dbaba0d6d403f9cf9150f707afe9d09ff7d"
     },
     "ruby-kit": {
-        "next": "e32c0c3a009c27264cca6fd3215965b908dbd71f"
+        "next": "e3fffe12b9e4d21ae59a13d0a315a65a9ea7b240"
     },
     "science-kit": {
         "next": "d0b7f9e6ca6248a1c3b521971602605d5a07847a"
@@ -84,7 +84,7 @@
         "next": "e8f21e56dbaf6f60d125774b558b90995c5c61e0"
     },
     "text-kit": {
-        "next": "f515c141fd3ac1270d6f777b227b2c9f7b64cda0"
+        "next": "fab36de92efce2f1d38f057b83de3b6c1a45f4fa"
     },
     "xfce-kit": {
         "next-4.16-release": "7cdd8a5e5cf041ef1ad8e501f771b0b25e5d2372"
