@@ -9,25 +9,25 @@
         "next": "f9174535acc8320b815d06a02457712c1c73a43d"
     },
     "core-kit": {
-        "next": "033ba1ce8617eade49c6b0c63be1a7a07ea60671"
+        "next": "aac6b79ee2484bd30090818c00b9ebc8ce8ad88c"
     },
     "core-server-kit": {
         "next": "0b22175574b10e13312880c85e627ffbe784e91e"
     },
     "desktop-kit": {
-        "next": "f147406bdff32b7df6d898380eaf48f2c1fce816"
+        "next": "a113fae0119ed139b202a5afd5e6f85b57a9745b"
     },
     "dev-kit": {
-        "next": "f4ebe291c35df2043fefe3379d94c61ab49db9c3"
+        "next": "1f81f2ed424ce2a932cc7d571b9a60f44cdf8d75"
     },
     "editors-kit": {
         "next": "a5029800005f0fb881ad1f7d2e592ba84701de7e"
     },
     "games-kit": {
-        "next": "730e1f055d64bacd88a027ca73da5b15af370d28"
+        "next": "4383a3d254f4b6386470aa328f99d4f2897ad6bc"
     },
     "gnome-kit": {
-        "49-prime": "e757bbc843ee3a460bdb2a6fdb12368e5fd124c2"
+        "49-prime": "e6414c53e06b44ee6cee67ebd9bda26f953e2ae1"
     },
     "haskell-kit": {
         "next": "c8bad2c916aa36c4fd749b2d546b1854843d49f6"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "7450f1f2b1ece285a2a3e849692b45f632c9994a"
     },
     "media-kit": {
-        "next": "f353fa8aff90a39b1c18725db42f8c51d493b19a"
+        "next": "6d7a0e285f94833ddc7a1045047100b6741da453"
     },
     "ml-lang-kit": {
         "next": "95bf068132f58a209a1d14af774facd7a5fc0386"
     },
     "net-kit": {
-        "next": "8b85166328bbb2416b462d3039d2d258674d17c6"
+        "next": "e4400087bad115271f13c9bce8224c44aa139ecb"
     },
     "perl-kit": {
         "next": "1e7cb32c39a5b7c24803a550e7a52b3c900508aa"
