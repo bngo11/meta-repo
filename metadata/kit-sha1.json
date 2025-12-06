@@ -9,16 +9,16 @@
         "next": "db47359e35376ecf946d70ce0a71bffdbd445710"
     },
     "core-kit": {
-        "next": "286b49e61c388b304a1e4f198e340976044189bc"
+        "next": "16b8cae850f6c5dbff6d4785ad610dffd74f3566"
     },
     "core-server-kit": {
-        "next": "301480b60ca5b698de42f933cf18340704414212"
+        "next": "2df49a85536d135727c9dd07a4fb553c3775d527"
     },
     "desktop-kit": {
-        "next": "41dbe11e5308aa90f51ccb7f14a1994f0c07e5ea"
+        "next": "6a6a72eedc9fd01fdd7e2f96c96997c06db8052a"
     },
     "dev-kit": {
-        "next": "d348cce28dea6011375226425f80253ab477016c"
+        "next": "7b4ddb668569d9627f552c444ac33d49be85bad7"
     },
     "editors-kit": {
         "next": "ae0be8d87e6c178a1dfa3fdd928f36ad4a7c8f1a"
@@ -69,10 +69,10 @@
         "next": "a1eefb9736a7be38584905579d0f6cdf3eb3e81f"
     },
     "python-modules-kit": {
-        "next": "7071ec4ea9803e2f9b62bb1ce95b599a0f866db8"
+        "next": "1d9b88297237f160a467d7960525be30dfcc3004"
     },
     "qt-kit": {
-        "next-5.15.2-release": "d72e0aa13fe068f8e72b6104a0d34eb964839bf6"
+        "next-5.15.2-release": "f1b8738621fcdfc8c71cb5c43bdbc35797641eee"
     },
     "ruby-kit": {
         "next": "12beab680de5395475e47af2a47aef3f5b52f8cc"
