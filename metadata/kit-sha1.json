@@ -9,25 +9,25 @@
         "next": "ff8ceab72d4f777c4becdd5f1f0ca5ccdc1b0d2f"
     },
     "core-kit": {
-        "next": "58d0471bf0abebc8808021acb8ff3e95ff4eac2a"
+        "next": "54f1aaf08ea80bd081773421cf8c52661ac09c6d"
     },
     "core-server-kit": {
-        "next": "9e3ae6c66edd7d330a9d5ff243b92163677e085c"
+        "next": "1b4700e63722ba7ad4d876aaaa9d1632b9737d3f"
     },
     "desktop-kit": {
-        "next": "557669763556ace0da3e5cf8d0c70f55240e4610"
+        "next": "6444ad35393a477fa3f3b6ff17d182ff429e8f01"
     },
     "dev-kit": {
-        "next": "4a819e8b7e525be49550b661b98090335f97c756"
+        "next": "76c62069d34529bfb2f199ab3a166ef4d8404707"
     },
     "editors-kit": {
         "next": "43c93726475a5d5d4e3c8e687dbb52982307e836"
     },
     "games-kit": {
-        "next": "1c93827f810929b338bef23711eda16da5596189"
+        "next": "70ce77cc674305ddc8dbe7e8131e02289f5cf88d"
     },
     "gnome-kit": {
-        "49-prime": "e90771161c021f75f8d40b3c7c498e662dcf7a20"
+        "49-prime": "2182895bc3f85be6c57d4ef15da02e048549a7be"
     },
     "haskell-kit": {
         "next": "f7e95c0217e16d1e570340304952a2b28fec9ffb"
@@ -60,7 +60,7 @@
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "e8e07074e47f10dae71f588ba2987ab9fb4cb1d1"
+        "next": "e4f7373fe128f168b777c86b319036975e720593"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
@@ -69,7 +69,7 @@
         "next": "f97a95e3b4372142ca071332823a8888d7b62f19"
     },
     "python-modules-kit": {
-        "next": "8648e08ece2e08541e351e470fd510f45032d019"
+        "next": "20fa4be9c9d6d9a2ac29de6c1d099cb66d323b9f"
     },
     "qt-kit": {
         "next-5.15.2-release": "5d6edfb40e60d597e14ba48c17a1f174949bcafa"
@@ -84,7 +84,7 @@
         "next": "a43b5d235bcfae0bc99ceb05d1e6c8d052873806"
     },
     "text-kit": {
-        "next": "6bc8a3bbdaffe0f6d65f980669f100dae7c628ce"
+        "next": "7e8434a4436d920a9b54f8282138c201a854761a"
     },
     "xfce-kit": {
         "next-4.16-release": "895ceb55cde3ae1fe371b6c78c35a037782c1aa3"
