@@ -6,19 +6,19 @@
         "next": "b9b6c61584d49a05a154e7a10875d12deef529e7"
     },
     "core-hw-kit": {
-        "next": "d5da796b84338d55b7da7fa94ba7ea9c0a79d35d"
+        "next": "7a6305175d4e1d134c01da59ed90d23744d3594d"
     },
     "core-kit": {
-        "next": "d63864df7987776cc31401c9fb15e5be68b8c453"
+        "next": "82dc135e592beab827a7b459894041d3e69e46d2"
     },
     "core-server-kit": {
-        "next": "59ad31b9ebdca1561a93416c0c5930b1035c5f97"
+        "next": "4b09c282e812aae8661cb35f8fc0fa965cbccc73"
     },
     "desktop-kit": {
         "next": "a7426d7d3134c9a24b2b1acc7b7fae5d7f935965"
     },
     "dev-kit": {
-        "next": "f36a81d927c5b8dcefd9d8af0ade48dd1c28b790"
+        "next": "15cd6ede9e09bbd40e11b69cfa8e90686eb80e16"
     },
     "editors-kit": {
         "next": "04e7d70759e57191bfec194040f47c62abece8fe"
@@ -42,7 +42,7 @@
         "next/5.27-release": "58858249fe3acbb1732368efebed4412688c87af"
     },
     "lang-kit": {
-        "next": "e983cb23400a1926079e36edfb935ea28780952e"
+        "next": "cd90b9fa485a00806458a7c0e6d6dd5ef2f29e3f"
     },
     "lisp-scheme-kit": {
         "next": "4bf0c4dd7225633f1f735f9d03b32abdbca97f5c"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "09aa95e0bd8a3f45f1be3ccc9e3a55a7f480dbba"
     },
     "media-kit": {
-        "next": "aad5881c0eb4f31dbc8182592fdc4cab3364d2da"
+        "next": "bd9ceee71ff602898f1cf4668a3e96a942a862b2"
     },
     "ml-lang-kit": {
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "f68ac6bd19cdbd752bfd0d419d7f3902a22d780f"
+        "next": "754789ad4a2398341b818551ce9185938625023a"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
@@ -69,7 +69,7 @@
         "next": "f97a95e3b4372142ca071332823a8888d7b62f19"
     },
     "python-modules-kit": {
-        "next": "7ad7584f709f2827763d38100a309813ccc1df30"
+        "next": "8d9b6cdea6c9810b51165d4df0a6a33009687363"
     },
     "qt-kit": {
         "next-5.15.2-release": "df8e477cb66a414f0b5aa67607623fa89cdbfadd"
