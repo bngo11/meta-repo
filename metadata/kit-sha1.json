@@ -3,7 +3,7 @@
         "next": "949ee33239a41f8278241e96ab4045c3a48a0570"
     },
     "core-gl-kit": {
-        "next": "395c739c55aaa0b88af55846334f47ce451d3d5f"
+        "next": "4b85288e4ec08460f9c43deda3c435abb00cec0c"
     },
     "core-hw-kit": {
         "next": "954517c92fa3b814a230e605c018a7cdd302d039"
@@ -69,7 +69,7 @@
         "next": "f97a95e3b4372142ca071332823a8888d7b62f19"
     },
     "python-modules-kit": {
-        "next": "5fcac9a790b7c5856328d3aa6ab563a2a5823ed9"
+        "next": "905eccbf206dd0ce3d005cc5a4881639eda76926"
     },
     "qt-kit": {
         "next-5.15.2-release": "df8e477cb66a414f0b5aa67607623fa89cdbfadd"
@@ -84,7 +84,7 @@
         "next": "234ff750b793b9f0fbf613712e39992b5238095e"
     },
     "text-kit": {
-        "next": "160647ee2b6135f7ecb2269d4e51208c9d783916"
+        "next": "89499eee7be931a1f43b5dbf5bedaea45d8fc3da"
     },
     "xfce-kit": {
         "next-4.16-release": "895ceb55cde3ae1fe371b6c78c35a037782c1aa3"
