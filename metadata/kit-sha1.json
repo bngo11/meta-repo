@@ -54,7 +54,7 @@
         "next/1.26-prime": "09aa95e0bd8a3f45f1be3ccc9e3a55a7f480dbba"
     },
     "media-kit": {
-        "next": "8c982fd62f1402082164d08038f0254dcf083050"
+        "next": "22ea6ae144a5a5aeb5a402250a9ec01aa6eda017"
     },
     "ml-lang-kit": {
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
@@ -69,7 +69,7 @@
         "next": "f97a95e3b4372142ca071332823a8888d7b62f19"
     },
     "python-modules-kit": {
-        "next": "7a4bcf89fefe0c00f1165b6b18b02c45ddca8e90"
+        "next": "5caed9104bd27b9ff8980985a78d3a6d9ca37581"
     },
     "qt-kit": {
         "next-5.15.2-release": "df8e477cb66a414f0b5aa67607623fa89cdbfadd"
