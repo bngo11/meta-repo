@@ -9,7 +9,7 @@
         "next": "8e0bb6aefe8108ff9f6b27ef04b85c09c314d968"
     },
     "core-kit": {
-        "next": "41e65a416b2b6c043563c464fc96a1dbd49bb0a0"
+        "next": "1d505cf2c14de872eb80d319ca0639c53ac38ee9"
     },
     "core-server-kit": {
         "next": "207d1b85b3a909d98682a80568e4456436de3f5e"
@@ -18,10 +18,10 @@
         "next": "3dc49cff7f9f046c5e880fdcd7f2dd19ec023137"
     },
     "dev-kit": {
-        "next": "b7c8115e82a12a1587d6814a81b453e66e70bb43"
+        "next": "53ce8c109520de5337650d4087e40c0604c64e34"
     },
     "editors-kit": {
-        "next": "ff238dc113815b0303dad2d1cddd95dd741d17e3"
+        "next": "6a4d1737ef255e4deb77ef5412021188bcee4ff1"
     },
     "games-kit": {
         "next": "7fbb238f0666ef93c7d73f7840c42b96b09ed74e"
@@ -33,7 +33,7 @@
         "next": "f7e95c0217e16d1e570340304952a2b28fec9ffb"
     },
     "i18n-kit": {
-        "next": "25ba525e5a8824da67a7406b25919805de58053e"
+        "next": "b15c7ccc9e4bcb8addffa852087d7cb8c04b7e30"
     },
     "java-kit": {
         "next": "e4fb7414e330023ccad5e26423eff59768adf448"
@@ -60,7 +60,7 @@
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "0584670dfdf0c65b322464232d86f1b4458dee16"
+        "next": "728b200d123ef623c38b2320d42ee55ed819199e"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
@@ -69,7 +69,7 @@
         "next": "f97a95e3b4372142ca071332823a8888d7b62f19"
     },
     "python-modules-kit": {
-        "next": "8dab385e6d2676d2a569a47d0913b3a03744a405"
+        "next": "c7d6308d3208b9ee7700a0a514cf611ea6935dea"
     },
     "qt-kit": {
         "next-5.15.2-release": "df8e477cb66a414f0b5aa67607623fa89cdbfadd"
@@ -78,7 +78,7 @@
         "next": "0fc8f96756bd8f71b7ce0d1ad995e36bad478f3d"
     },
     "science-kit": {
-        "next": "0abc36f42cc0d3aa260dab9754dc25073cd75c72"
+        "next": "a8ff0c3eab96ce5de49fa0914c60961c0b352531"
     },
     "security-kit": {
         "next": "7f43a5d180c20d40958d85df0af3b6cc908a6fe9"
