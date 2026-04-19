@@ -88,7 +88,7 @@
         },
         "gnome-kit": {
             "stability": {
-                "49-prime": "prime"
+                "50-prime": "prime"
             },
             "type": "auto"
         },
@@ -242,7 +242,7 @@
             "next"
         ],
         "gnome-kit": [
-            "49-prime"
+            "50-prime"
         ],
         "haskell-kit": [
             "next"
