@@ -9,16 +9,16 @@
         "next": "10f39e5d16c173fef17a2fd6cf07f3aad7017f14"
     },
     "core-kit": {
-        "next": "0c947de1d0268c304cf3b8115f3156c0c181fb34"
+        "next": "3b479a7975457f0e2df448b71914488d76d09b06"
     },
     "core-server-kit": {
-        "next": "c690d68a0bceae340be7aff0a1b0c2ac1f58e675"
+        "next": "d6d84a1f5abced9d7070c45376e43c2edd5d7e73"
     },
     "desktop-kit": {
         "next": "1fba757899fa7b950fd36d28a17fa6ccb5e521ca"
     },
     "dev-kit": {
-        "next": "7c8ae2e727cc6f2f59666e496422e441366abd4e"
+        "next": "ae71fd2bbcfdbc6ace17d7eea65d561717141d8c"
     },
     "editors-kit": {
         "next": "503d2e5eb57112c74a6b4893abd02f660d4982b8"
@@ -60,7 +60,7 @@
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "927de128cec7d6ab8882f811f696c5c72f4ef100"
+        "next": "f94fa08dd439fff5b7b72472103976fa8a940e77"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
