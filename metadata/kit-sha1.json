@@ -9,25 +9,25 @@
         "next": "d3cf00b0e5b97b309e82d24c7bd4ddb31c07fd6a"
     },
     "core-kit": {
-        "next": "510d8573524424ffca12c2c959168c588073d6de"
+        "next": "ef47c70480f1073a2f28a73a891f33d9b63df99c"
     },
     "core-server-kit": {
-        "next": "9d59cb34ae2c692a6774371583aabf6a0bf3c318"
+        "next": "ccfaaab414c842d5d3f3aab920d07111dcdb7b88"
     },
     "desktop-kit": {
         "next": "7ae2c3dde05a1ec321e708d96f534efb6dfbf6dd"
     },
     "dev-kit": {
-        "next": "e793e4e6c6bf12e4854fd089f8dfb5c3b013bf81"
+        "next": "ceeefbedfbec8838fb2c5dfdd8b074fb36a79f35"
     },
     "editors-kit": {
-        "next": "c84fae37e48cd7b6582c6d94f3b358abd1980122"
+        "next": "af9fe2f3a19758d523efaa51fc9fe4dea4611a1c"
     },
     "games-kit": {
         "next": "4d0d9e8dac913808c3dcc0054c1740d438f4f77c"
     },
     "gnome-kit": {
-        "50-prime": "36026be767becb895ad0d19e7fd25cfe7f4e9721"
+        "50-prime": "2e22f7a2be139ca7b980cc85c33bf3f16c4fb9e4"
     },
     "haskell-kit": {
         "next": "f7e95c0217e16d1e570340304952a2b28fec9ffb"
@@ -54,22 +54,22 @@
         "next/1.26-prime": "09aa95e0bd8a3f45f1be3ccc9e3a55a7f480dbba"
     },
     "media-kit": {
-        "next": "e54e919385942a4db89913b49121d269ccb20f15"
+        "next": "ac4c2cdcc2bbf715fe0827f661c65dfb6bcc37c7"
     },
     "ml-lang-kit": {
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "f7a972221da6cc870bedcd83accf10a7551486f0"
+        "next": "293fc797d0904c760faf4a986501db9b2024ad66"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
     },
     "python-kit": {
-        "next": "a374095f33723915b02748b3b12d49769dabdf34"
+        "next": "afc23cd7b2c12ada323e5e403624ab36264bdee9"
     },
     "python-modules-kit": {
-        "next": "e6ba1a19592529f66f05a9ab3b0c02d7b752db96"
+        "next": "52a5d8efcc635287d13ac62734af175ad80d1319"
     },
     "qt-kit": {
         "next-5.15.2-release": "13e665968b290dbca1c6e650327548bb7fce33a8"
