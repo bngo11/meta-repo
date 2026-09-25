@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "f0b44681f1259bdfb3f3208383d3224ffeb0ec2a"
+        "next": "cce8a3d8cd9ae8815210657314a4626ad29f6e12"
     },
     "core-gl-kit": {
         "next": "6b2154f6269e09af3fee1823ea865256bbb60c7c"
@@ -9,19 +9,19 @@
         "next": "99a845abd5bcf3842eadb8cadf105862224e3d53"
     },
     "core-kit": {
-        "next": "859202af2a386ff8240060e82c2983ad81a9d75f"
+        "next": "3ddc82b72e2688216eea9f63390e5506f9fb6117"
     },
     "core-server-kit": {
-        "next": "2e0aed080fce678561214e6e0bd7fb046b6bf233"
+        "next": "80cc41f32ea9c0282be32a88b5aae9d7717a59c6"
     },
     "desktop-kit": {
-        "next": "14bbaad15e66744e99f63f82cc6b682eee0cb19a"
+        "next": "a37eae235f76aadfa05a27bb6e4a46cb88fdd112"
     },
     "dev-kit": {
-        "next": "5114fffd7460e91a3e51c821df9d8d9b25020a96"
+        "next": "e093cdfe7625eedc2d4fa39058b9cfcfea6911ce"
     },
     "editors-kit": {
-        "next": "704d4b7ef850130194c5e83084efba6826d68555"
+        "next": "eca406ef5245438a4f70f32a49e6a15c4e755464"
     },
     "games-kit": {
         "next": "4b781fce0449ce6bf8ad5c3de8ef17fdb740ce9f"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "2828b644f887f086677717ba9710948afff12a88"
     },
     "media-kit": {
-        "next": "7d948c7b241c5859ae97985b63b2fc4e430d94d0"
+        "next": "a960a780e07d4832e97b044418ccbd4ed2520106"
     },
     "ml-lang-kit": {
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "19c702612fefab357b1c236e7b39986a8881e26d"
+        "next": "180ddec85221353badaf3a1fe37ded43b4b57153"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
@@ -69,7 +69,7 @@
         "next": "90f048a4a74a23ee2aa6b5dbddac55fe5d4bcb25"
     },
     "python-modules-kit": {
-        "next": "89ae6107b87dcebfcfcd60b2f3f44b2854809fe6"
+        "next": "d027a54130c25e6c9f5fd3081730eea50bc2f099"
     },
     "qt-kit": {
         "next-5.15.2-release": "4d51a35d1e963f4c6fbe8b768003b6612c225aba"
@@ -78,7 +78,7 @@
         "next": "b41a7a8cc5abc82f7b433d5e75bfa751cfb99ba5"
     },
     "science-kit": {
-        "next": "78c3d410b7415e2e16ac4d581555e743086f4d37"
+        "next": "34c1192151c39085fdb1a7e0e30b351971e30ed6"
     },
     "security-kit": {
         "next": "729350b7ae36da965d799168e2cd12d686a348c4"
