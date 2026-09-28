@@ -9,25 +9,25 @@
         "next": "daec396aee090ac74e6c570b13845a73fa82525c"
     },
     "core-kit": {
-        "next": "147083769860f9de44fe22a5c0bd8b3fd7fc9c35"
+        "next": "ab773c8fd28cb66536c6c96418cf3af865a4b75c"
     },
     "core-server-kit": {
-        "next": "c2db192e8d12b400029b25fff4295e16180454a5"
+        "next": "b206f8fdf9bc648e7998d790012c70acba1f0ceb"
     },
     "desktop-kit": {
-        "next": "f371853e03e3cc62378e4482fdf9ae18d5a146e0"
+        "next": "3a9ccd6f44466afd832af39eb2043712c9236147"
     },
     "dev-kit": {
-        "next": "6b71f397b8754efb394ee91c90d1dbfbddbc7e57"
+        "next": "38880ee0d6750dd9f1803936fc6b770feb76d9c9"
     },
     "editors-kit": {
-        "next": "c6a53c13a5837508add3504024ad95382314ae58"
+        "next": "112156c44cf82084804c64a6ec2790e556e2f4e3"
     },
     "games-kit": {
         "next": "aed66f1b474ecf13ed5a4236359f79b987ba9ba1"
     },
     "gnome-kit": {
-        "51-prime": "58d9aa6189e9f3c7d8cb88dad96a705ff9e14aa4"
+        "51-prime": "8729d197a23817a40240744033cddf2e45b7fa04"
     },
     "haskell-kit": {
         "next": "f7e95c0217e16d1e570340304952a2b28fec9ffb"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "092946b78b07fb961dbc97f68b94d064edf0a7c9"
     },
     "media-kit": {
-        "next": "16bfae5b4112a8e0af4619833d5f3f1a2f1893a3"
+        "next": "ba74707b660d207dacf382f7cc4bf68285ec1292"
     },
     "ml-lang-kit": {
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "4e7daf900f41c1e8442932c306550b98c057b365"
+        "next": "ed28f57bf7afda6a23111a03896d407da9f82ce0"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
@@ -69,7 +69,7 @@
         "next": "90f048a4a74a23ee2aa6b5dbddac55fe5d4bcb25"
     },
     "python-modules-kit": {
-        "next": "2c5be65dce19dfd396d791b9cc8e1919d69ca00b"
+        "next": "ee2aee477261e7c1bbb56e2f45c7ebea5e521fba"
     },
     "qt-kit": {
         "next-5.15.2-release": "37a50ea9740147ab486cf3061be66541b10c0696"
