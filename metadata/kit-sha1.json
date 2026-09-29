@@ -3,22 +3,22 @@
         "next": "1718b52fa79381d1f8b5c6cadd0e679a2cc235b7"
     },
     "core-gl-kit": {
-        "next": "99bdcab16db95b08b61318b1919fe95338547f81"
+        "next": "cf10ff713125766069bcf5daf845d930ecf46e5e"
     },
     "core-hw-kit": {
-        "next": "daec396aee090ac74e6c570b13845a73fa82525c"
+        "next": "7d593064359df327b0f45ab7fd0788817465d985"
     },
     "core-kit": {
-        "next": "ab773c8fd28cb66536c6c96418cf3af865a4b75c"
+        "next": "9f4b95ec384e7cfa7dc88e38a97b18fcd920a948"
     },
     "core-server-kit": {
-        "next": "b206f8fdf9bc648e7998d790012c70acba1f0ceb"
+        "next": "2775c3ea078a882a31e76f713c7c3a4376633a2d"
     },
     "desktop-kit": {
         "next": "3a9ccd6f44466afd832af39eb2043712c9236147"
     },
     "dev-kit": {
-        "next": "38880ee0d6750dd9f1803936fc6b770feb76d9c9"
+        "next": "b3616e431f02e2381f4055c2abd1e049ab3d3917"
     },
     "editors-kit": {
         "next": "112156c44cf82084804c64a6ec2790e556e2f4e3"
@@ -27,7 +27,7 @@
         "next": "aed66f1b474ecf13ed5a4236359f79b987ba9ba1"
     },
     "gnome-kit": {
-        "51-prime": "8729d197a23817a40240744033cddf2e45b7fa04"
+        "51-prime": "2a45feecb2ab3e1abcd6075d4f310a132fab02d7"
     },
     "haskell-kit": {
         "next": "f7e95c0217e16d1e570340304952a2b28fec9ffb"
@@ -60,7 +60,7 @@
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "ed28f57bf7afda6a23111a03896d407da9f82ce0"
+        "next": "99a17ef63db7ac740513d20ca99158434a93f14d"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
@@ -69,13 +69,13 @@
         "next": "90f048a4a74a23ee2aa6b5dbddac55fe5d4bcb25"
     },
     "python-modules-kit": {
-        "next": "ee2aee477261e7c1bbb56e2f45c7ebea5e521fba"
+        "next": "3189991f5350ec9fd0433859b26bccd78752cf8d"
     },
     "qt-kit": {
         "next-5.15.2-release": "37a50ea9740147ab486cf3061be66541b10c0696"
     },
     "ruby-kit": {
-        "next": "b41a7a8cc5abc82f7b433d5e75bfa751cfb99ba5"
+        "next": "3e8e6f935b1dfbb66cab1a2ca430ba1d6561cb99"
     },
     "science-kit": {
         "next": "75f6884f5ddd4b116f0c36b5352759e89879124e"
