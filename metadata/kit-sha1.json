@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "1608def6baa75238b70eb3eca772e2e292fb6524"
+        "next": "8c523c589b92f20d3f0fec04a47bd977a44fc78f"
     },
     "core-gl-kit": {
         "next": "cf10ff713125766069bcf5daf845d930ecf46e5e"
@@ -12,7 +12,7 @@
         "next": "ae53c8fd20613ee9024839b5790f6a28279bb1fd"
     },
     "core-server-kit": {
-        "next": "c54983c48e4754cd20c4c05b74a8dcebf621e557"
+        "next": "5d4f18b6c7aad20db67320f70ff9ede298e5af38"
     },
     "desktop-kit": {
         "next": "b9b0b15282a06be252ae497bbf263621f98493b7"
@@ -27,7 +27,7 @@
         "next": "aed66f1b474ecf13ed5a4236359f79b987ba9ba1"
     },
     "gnome-kit": {
-        "51-prime": "56186ccd49c7c1d0b52f4c6c166c45189b81d0ca"
+        "51-prime": "dfcfb95b7d12ef2fcf10344f23a20d105af3f243"
     },
     "haskell-kit": {
         "next": "f7e95c0217e16d1e570340304952a2b28fec9ffb"
