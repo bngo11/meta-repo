@@ -9,7 +9,7 @@
         "next": "f350b3da8ce219693dd2ac4bb7ad916eeb6cbb6b"
     },
     "core-kit": {
-        "next": "89ddb9d460700f2d72f48c3ec1e545154f243ab9"
+        "next": "5dc1eb95335b2cba27291eee5aa3274426d0559a"
     },
     "core-server-kit": {
         "next": "a374cec89f9987f0fa4d28276db377aa017323ee"
@@ -18,7 +18,7 @@
         "next": "f2ada21f9a54319b3e5311a5cc7f925987af479b"
     },
     "dev-kit": {
-        "next": "37ae43c7020f2205f47524abc834bacea755fe1c"
+        "next": "5a6cfc93c50e1c260d0eb037ac1c88efccab9dfc"
     },
     "editors-kit": {
         "next": "878d94903303046d6faf97a43effc335087508c3"
@@ -27,13 +27,13 @@
         "next": "e1276bc7b424c5ceee547268eae7accf11d76e37"
     },
     "gnome-kit": {
-        "51-prime": "ebf85ddc63a456175784a42a098bfd407e38ec4f"
+        "51-prime": "490e7e3db8c8230c5a2f40cb8614163f10197475"
     },
     "haskell-kit": {
         "next": "f7e95c0217e16d1e570340304952a2b28fec9ffb"
     },
     "i18n-kit": {
-        "next": "29d874af1b8ae2cd068569d1c1f139be88bbd5c1"
+        "next": "4548a1fedafa832a5ebd99ebfaf45150e7320767"
     },
     "java-kit": {
         "next": "6f926392c872d8edcb35732d644b1e88991b7a24"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "092946b78b07fb961dbc97f68b94d064edf0a7c9"
     },
     "media-kit": {
-        "next": "450d24566ebffb74aeebdb23accebad41acbde2a"
+        "next": "e2ec1eb64a7821bad9ae029e06c3519eb9d98a40"
     },
     "ml-lang-kit": {
         "next": "fc676d2fe5fce44cc50f33f2a2b81375b1ed518d"
     },
     "net-kit": {
-        "next": "b7ccbe87dc218edd3a29142e895533482653bdfd"
+        "next": "59082066ecc6da7a3e30db1506bbc03a1e60b3e4"
     },
     "perl-kit": {
         "next": "279a770a426b17ab6d9b2ed670f2579169948811"
@@ -69,7 +69,7 @@
         "next": "d195efb51cc54a3b78d8e7c2a8268c423553a450"
     },
     "python-modules-kit": {
-        "next": "21efe4b77f969e6d43e0125fa8504270cebee8f8"
+        "next": "1ca91bd2580d5dd27757d0c7b48d9213f40a6020"
     },
     "qt-kit": {
         "next-5.15.2-release": "e3ba4d07deb8ebb49b1297b81edd71858abb76b5"
